@@ -1,0 +1,4429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>WAS</name>
+      <longname>Work of the Argent Sun</longname>
+      <settype>Custom</settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Rustfeldt Evoker</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>6CR: Create a 0/0 colorless Homunculus artifact creature token. It gets +6/+6 and gains haste and trample until end of turn.</text>
+    </card>
+    <card>
+      <name>The Life of Metal (1560 ed)</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter and a first strike counter on target creature.
+Research 2R (2R, Exile this card from your graveyard during an opponent’s end step: After the next draw step, cast a free copy of it.)</text>
+    </card>
+    <card>
+      <name>Choir at the Gate</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Avatar Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+{T}: Add {C}. This mana can’t be spent to cast nonenchantment permanent spells. 
+3CU, Sacrifice Choir at the Gate: Draw two cards. This ability costs {3} less to activate if you have the city’s blessing.</text>
+    </card>
+    <card>
+      <name>Twilit Vagabond</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>C/B</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment Creature - Horror Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+Whenever Twilit Vagabond deals combat damage to a creature, exile that creature. Then if you have the city’s blessing, you gain 5 life.</text>
+    </card>
+    <card>
+      <name>Heart of the Hall</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3C/R</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Horror Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+Whenever Heart of the Hall attacks, you may discard a card. If you do, draw a card. Then if you have the city’s blessing, Heart of the Hall gains indestructible until end of turn. </text>
+    </card>
+    <card>
+      <name>Cliff Seer</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2C/U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Avatar Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ascend (If you control ten or more  permanents, you get the city’s blessing for the rest of the game.)
+{1}: Cliff Seer gets +1/-1 until end of turn.
+When Cliff Seer dies, scry 2. Then if you have the city’s blessing, draw a card.</text>
+    </card>
+    <card>
+      <name>Winding Gullet</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5C/G</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment Creature - Avatar Beast  </type>
+        <maintype>Creature</maintype>
+        <pt>5/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+Trample
+Winding Gullet gets +2/+2 as long as you have the city’s blessing.</text>
+    </card>
+    <card>
+      <name>Pious Pillarscribe</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4C/W</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment Creature - Avatar Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+Vigilance
+As long as you have the city’s blessing, Pious Pillarscribe has flying.</text>
+    </card>
+    <card>
+      <name>Envesseled Sylph</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Spirit Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Envesseled Sylph enters with a +1/+1 counter and a flying counter on it.
+When Envesseled Sylph dies, you may put its counters on target permanent.</text>
+    </card>
+    <card>
+      <name>Goodbye to the Spider (1959)</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 1/1 black Warlock creature token, then create two 1/1 white Human creature tokens that can’t block.
+Research 2B (2B, Exile this card from your graveyard during an opponent’s end step: After the next draw step, cast a free copy of it.)</text>
+    </card>
+    <card>
+      <name>Call of the Harbor</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+Target creature gets +3/+0 until end of turn. Put your choice of a first strike, reach, trample, or +1/+1 counter on it. If you have the city’s blessing, choose any number of those counters instead.</text>
+    </card>
+    <card>
+      <name>Totality of the Chapel</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+When Totality of the Chapel enters, exile target nonland permanent an opponent controls until Totality of the Chapel leaves the battlefield.
+As long as you have the city’s blessing, creatures you control get +1/+1.</text>
+    </card>
+    <card>
+      <name>Magnitude</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>5/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>During your turn, creatures you don’t control get -X/-0, where X is Magnitude’s power.
+Occlude 5CU (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.)</text>
+    </card>
+    <card>
+      <name>Envesseled Undine</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nymph Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Envesseled Undine enters with two +1/+1 counters and a vigilance counter on it.
+When Envesseled Undine dies, you may put its counters on target permanent.</text>
+    </card>
+    <card>
+      <name>Envesseled Salamander</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental Salamander </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Envesseled Salamander enters with two +1/+1 counters and a first strike counter on it.
+When Envesseled Salamander dies, you may put its counters on target permanent.</text>
+    </card>
+    <card>
+      <name>Envesseled Gnome</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elemental Gnome </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Envesseled Gnome enters with three +1/+1 counters and a trample counter on it.
+When Envesseled Gnome dies, you may put its counters on target permanent.</text>
+    </card>
+    <card>
+      <name>Buried Leyworker</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5UU</manacost>
+        <cmc>7</cmc>
+        <type>Artifact Creature - Zombie  </type>
+        <maintype>Creature</maintype>
+        <pt>7/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as Buried Leyworker is tapped, it has hexproof.
+Occlude 6CU (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.)</text>
+    </card>
+    <card>
+      <name>Doomed Novice</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Doomed Novice dies, choose one—
+• Create a 1/1 black Warlock creature token.
+• You gain 3 life. 
+• Put an argent counter on target permanent. (It gains “{T}: Add {C}.”)</text>
+    </card>
+    <card>
+      <name>Sewneye Seer</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>U/B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Bird Homunculus </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+At the beginning of your end step, if you haven’t cast a spell from your hand this turn, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Lodgeworkers Adept</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Lodgeworkers Adept enters, target creature an opponent controls gets -2/-0 until end of turn.
+2U: Draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>Utter Insignificance</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Enchant creature
+Enchanted creature loses all abilities and has base power and toughness 1/1.
+2C: Exile enchanted creature.</text>
+    </card>
+    <card>
+      <name>Used Esoterica Salesman</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Rogue Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When Used Esoterica Salesman enters, draw a card, then discard a card. If a nonland card was discarded this way, create a 1/1 black Warlock creature token and put a menace counter on it.</text>
+    </card>
+    <card>
+      <name>Student of Limn</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment Creature - Wizard Citizen  </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Student of Limn enters or is turned face up, return target creature an opponent controls to its owner’s hand.
+Occlude 4CU (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.)</text>
+    </card>
+    <card>
+      <name>Disprove</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+Counter target spell unless its controller pays {2}. If you have the city’s blessing, counter that spell instead.</text>
+    </card>
+    <card>
+      <name>Guide of the Lucid</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1W/U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Avatar Citizen  </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+Flying, defender
+As long as you have the city’s blessing, Guide of the Lucid can attack as though it didn’t have defender.</text>
+    </card>
+    <card>
+      <name>Choronzon Chains</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Artifact </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature you control dies, put your choice of a +1/+1, first strike, trample, menace, or argent counter on Choronzon Chains. (Argent counters grant “{T}: Add {C}.”)
+{T}: Choronzon Chains becomes a 1/1 Demon Construct artifact creature. Activate only once.</text>
+    </card>
+    <card>
+      <name>Scholar of Consumption</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>2B/GB/G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Scholar of Consumption dies, create a 0/1 green Egg creature token with “{3}, {T}, Sacrifice this creature: Create a 3/2 green Worm creature token.”</text>
+    </card>
+    <card>
+      <name>Synaesthiote</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>G/U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment Creature - Avatar Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1G/U: Search your library for a card named Synaesthiote and put it onto the battlefield. Activate only as a sorcery.
+{2}, Sacrifice Synaesthiote: Draw a card.</text>
+    </card>
+    <card>
+      <name>Pseudarian</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>4U/RU/R</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Snail </type>
+        <maintype>Creature</maintype>
+        <pt>5/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+This spell costs {1} less to cast for each counter among permanents you control.
+When Pseudarian enters, draw a card.</text>
+    </card>
+    <card>
+      <name>Maskgrove Gardener</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add one mana of any type. (The types of mana are {C}, {W}, {U}, {B}, {R}, and {G}.)
+Untap Maskgrove Gardener during each opponent’s untap step.</text>
+    </card>
+    <card>
+      <name>Anteargentian Reliquary</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{0}: Add one mana of any color. This ability costs {1} more to activate for each time it’s been activated this turn.</text>
+    </card>
+    <card>
+      <name>Rite of the Burning Wood</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Great Work 2CR (If you cast this for its Great Work cost, exile it as it resolves. When it’s exiled, create Opus, a legendary artifact with “At the beginning of your first main phase, cast a copy of the exiled card without paying its mana cost.”)
+Target creature you control gets +3/+2 until end of turn. Put your choice of a +1/+1 counter or a trample counter on it.</text>
+    </card>
+    <card>
+      <name>The Peacock&apos;s False Names</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Great Work — 3CB, Pay 5 life. (If you cast this for its Great Work cost, exile it as it resolves. When it’s exiled, create Opus, a legendary artifact with “At the beginning of your first main phase, cast a copy of the exiled card without paying its mana cost.”)
+You may sacrifice a creature. If you do, you gain 3 life and you draw two cards.</text>
+    </card>
+    <card>
+      <name>Hallwalker</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>2CBR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Zombie Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+As long as you have one or fewer cards in hand, Hallwalker gets +4/+0, has indestructible, and must attack each turn if able.
+Occlude — 1CBR, Discard a card. (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.)</text>
+    </card>
+    <card>
+      <name>Bring Ruin</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one. If you have one or fewer cards in hand, you may choose both.
+• Create two 1/1 black Warlock creature tokens.
+• Bring Ruin deals 3 damage to target creature.</text>
+    </card>
+    <card>
+      <name>Clastedox Adherents</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+At the beginning of your end step, if you have one or fewer cards in hand, put a +1/+1 counter on Clastedox Adherents.</text>
+    </card>
+    <card>
+      <name>Morgana Fata</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2CG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Morgana Fata enters or is turned face up, prevent all damage that would be dealt this turn by other sources.
+Occlude 2CCG (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.)</text>
+    </card>
+    <card>
+      <name>Mnekgn&apos;s Veil</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Horror Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Mnekgn’s Veil enters, you may have each player discard a card. 
+2B: Mnekgn’s Veil gets +1/+1 until end of turn. This ability costs {B} less to activate if you have one or fewer cards in hand.</text>
+    </card>
+    <card>
+      <name>Salaryman</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>4C</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment Creature - Drone Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>6/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>While Salaryman is attacking, your opponents can’t cast spells, activate nonmana abilities, or turn permanents they control face up.
+CCC: Salaryman can’t be blocked this turn.</text>
+    </card>
+    <card>
+      <name>Mundane Front</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Mundane Front enters or is turned face up, create two 1/1 black Warlock creature tokens.
+{2}, {T}, Sacrifice Mundane Front: Draw a card.
+Occlude 3C (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.)</text>
+    </card>
+    <card>
+      <name>Place of Significance</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura  // </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+Enchant land you control
+Whenever enchanted land becomes tapped, add {C} or {G}. If you have the city’s blessing, add three mana of any one type instead.
+--- 
+Insight — It’s an opponent’s end step. (If the insight condition is fulfilled, you may cast this card from your graveyard. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Fleshsmith</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Zombie Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Fleshsmith enters, choose one —
+•  Create a 0/1 green Egg creature token with “{3}, {T}, Sacrifice this creature: Create a 3/2 green Worm creature token.”
+•  Create a 1/1 white Bird creature token with flying and “{2}, {T}, Sacrifice this creature: You gain 3 life.”</text>
+    </card>
+    <card>
+      <name>Blessedbea</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>3W/BW/B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Demon Bird Human </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Blessedbea enters, create two 1/1 white Human creature tokens that can’t block. You gain 1 life for each creature you control.</text>
+    </card>
+    <card>
+      <name>Astra Achromia</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>2C</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Drone Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of each player’s upkeep, each of their opponents draw a card unless they pay one mana of each color lands they control could produce.</text>
+    </card>
+    <card>
+      <name>Peacock Business Partner</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2WB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may pay 1 life. If you do, create a 1/1 white Bird creature token with flying and “{2}, {T}, Sacrifice this creature: You gain 3 life.”
+Whenever you gain life, target opponent loses that much life.</text>
+    </card>
+    <card>
+      <name>Kindly Psychologist</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you gain life or cast an enchantment spell, create a 1/1 white Human creature token that can’t block. This ability triggers only once each turn.</text>
+    </card>
+    <card>
+      <name>Seekers of the Omphalos</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever an enchantment or land you control enters, put a +1/+1 counter on Seekers of the Omphalos.</text>
+    </card>
+    <card>
+      <name>Xiao, the Butcher</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>2BG</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Zombie Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch, reach
+Whenever a token you control enters, Xiao, the Butcher gains indestructible until end of turn. Untap Xiao.</text>
+    </card>
+    <card>
+      <name>Hazardous Concept</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When Hazardous Concept enters, tap enchanted creature. If you controlled it, draw three cards.
+Enchanted creature doesn’t untap during its controller’s untap step.</text>
+    </card>
+    <card>
+      <name>Limnetic of the Waterfall</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment Creature - Avatar Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink, flying
+Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+At the beginning of combat on your turn, another target creature gets +1/+0 until end of turn. If you have the city’s blessing, put a +1/+1 counter on that creature instead.</text>
+    </card>
+    <card>
+      <name>Obsessed Archaeologist</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+{1}, Sacrifice Obsessed Archaeologist: Put an argent counter on target permanent. (It gains “{T}: Add {C}.”)
+1C, Exile Obsessed Archaeologist from your graveyard: Scry 2.</text>
+    </card>
+    <card>
+      <name>Limbic Temptress</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Horror Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As an additional cost to cast this spell, discard a card or pay {2}.
+When Limbic Temptress dies, exile the top card of your library. You may play that card until the end of your next turn.</text>
+    </card>
+    <card>
+      <name>Prismatic Prophecy</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>1C</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Prismatic Prophecy enters, scry 1, then draw a card.
+{C}: Add one mana of any color. </text>
+    </card>
+    <card>
+      <name>Friendly Face</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>C</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment Creature - Avatar Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash</text>
+    </card>
+    <card>
+      <name>Lodgeworkers Ravensmith</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your end step, if you haven’t cast a spell from your hand this turn, create a 0/0 colorless Homunculus artifact creature token, then put two +1/+1 counters and a flying counter on it.
+Occlude 3CU (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.)</text>
+    </card>
+    <card>
+      <name>Impossible Question</name>
+      <set rarity="mythic">WAS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3CCUU</manacost>
+        <cmc>7</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Great Work 1CU (If you cast this for its Great Work cost, exile it as it resolves. When it’s exiled, create Opus, a legendary artifact with “At the beginning of your first main phase, cast a copy of the exiled card without paying its mana cost.”)
+End the turn.</text>
+    </card>
+    <card>
+      <name>Moorfog Anaithnid</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5GG</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Shapeshifter Giant  </type>
+        <maintype>Creature</maintype>
+        <pt>8/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Moorfog Anaithnid can’t be blocked by more than one creature.
+Occlude 6CG (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.)</text>
+    </card>
+    <card>
+      <name>Melanosis Station</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Melanosis Station enters, create a 0/1 green Egg creature token with “{3}, {T}, Sacrifice this creature: Create a 3/2 green Worm creature token.”
+Whenever a token you control enters, you gain 1 life.
+Whenever a token you control dies, each opponent loses 1 life.</text>
+    </card>
+    <card>
+      <name>Leucosis Station</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Leucosis Station enters and whenever you gain life, put your choice of a +1/+1 counter, a vigilance counter, a first strike counter, or a flying counter on it.
+{1}, {T}: Move any number of counters from Leucosis Station onto target creature. You can’t activate this ability during combat.</text>
+    </card>
+    <card>
+      <name>Xanthosis Station</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>GU</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Xanthosis Station enters and whenever one or more counters are put on a permanent you control, look at the top two cards of your library. Then, you may put one into your hand and the other on the bottom of your library. If you do, discard a card.
+{2}, {T}, Sacrifice Xanthosis Station: Return target card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Iosis Station</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {R}.
+Whenever you discard a card, you may exile that card from your graveyard. If you do, create a red artifact token named Cinnabar with “1R, {T}, Sacrifice Cinnabar: You may play the exiled card until end of turn.”
+1R, Discard Iosis Station: Iosis Station deals 2 damage to target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>Authority of Howling Silence</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>9</manacost>
+        <cmc>9</cmc>
+        <type>Creature - Illusion Archon </type>
+        <maintype>Creature</maintype>
+        <pt>9/9</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Authority of Howling Silence or another permanent you control enters, each opponent exiles a permanent they control.</text>
+    </card>
+    <card>
+      <name>Mundane Solution</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Mundane Solution deals 5 damage to target nonenchantment creature.</text>
+    </card>
+    <card>
+      <name>Upturn the Simulacra</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>C</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Great Work 2CCC (If you cast this for its Great Work cost, exile it as it resolves. When it’s exiled, create Opus, a legendary artifact with “At the beginning of your first main phase, cast a copy of the exiled card without paying its mana cost.”)
+Exile the top card of each player’s library. You may play a card exiled this way this turn, and you may spend {C} as though it was mana of any color to cast spells this way.</text>
+    </card>
+    <card>
+      <name>Ritual Site</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Ritual Site enters tapped. As it enters, choose a color.
+You may spend {C} as though it were mana of the chosen color.
+{T}: Add {C}.</text>
+    </card>
+    <card>
+      <name>Demonjaw Doomsayer</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Demonjaw Doomsayer or a Penumbra you control enters, choose one—
+• Put a +1/+1 counter and a menace counter on that permanent. 
+• Each opponent loses 1 life and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Mother-and-Father</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1CG</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Avatar Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+Trample, ward—Sacrifice an untapped land.
+Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+This creature gets +2/+2 as long as you have the city’s blessing.</text>
+    </card>
+    <card>
+      <name>Dour Garasyne</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Demon Boar </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Dour Garasyne has indestructible as long as an opponent has cast a spell or turned a permanent face up this turn.</text>
+    </card>
+    <card>
+      <name>Cavali Adept</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever an enchantment or land you control enters, target creature gets +1/+1 until end of turn. You gain 1 life.</text>
+    </card>
+    <card>
+      <name>Eidetic Chrysalis</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Horror Beast </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Reach
+{C}: Eidetic Chrysalis gets +3/-3 and gains trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Emanate Sunyata</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>8</manacost>
+        <cmc>8</cmc>
+        <type>Creature - Illusion Archon </type>
+        <maintype>Creature</maintype>
+        <pt>10/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Occlude {10} (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.)</text>
+    </card>
+    <card>
+      <name>Venerated Master</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>5W</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Demigod Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Occlude 5CW (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.)</text>
+    </card>
+    <card>
+      <name>Disquieting Discovery</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put an argent counter on target permanent. (It gains “{T}: Add {C}.”)
+5CC, Exile Disquieting Discovery from your graveyard: Create a tapped colorless 7/7 Horror Drone enchantment creature with menace.</text>
+    </card>
+    <card>
+      <name>Dream of the Quarry</name>
+      <set rarity="">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Enchantment Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Dream of the Quarry enters, sacrifice it. When you do, search your library for a basic Mountain or Forest card and put it onto the battlefield tapped with an argent counter on it. (It gains “{T}: Add {C}.”)</text>
+    </card>
+    <card>
+      <name>Moderate</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1CW</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Prevent all damage that would be dealt to you and permanents you control this turn.
+Creatures your opponents control lose all nonmana abilities until end of turn.</text>
+    </card>
+    <card>
+      <name>Refinery Herald</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>2R/G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Drone Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Refinery Herald enters or dies, put an argent counter on another target permanent. (It gains “{T}: Add {C}.”)</text>
+    </card>
+    <card>
+      <name>Anthroparion Vessel</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Anthroparion Vessel enters with an argent counter on it. (It gains “{T}: Add {C}.”)
+{1}, Remove a counter from a permanent you control: Anthroparion Vessel becomes a 5/5 Human Homunculus creature in addition to its other types until end of turn.</text>
+    </card>
+    <card>
+      <name>Vanguard of the Spire</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two 2/2 colorless Drone Citizen enchantment creature tokens with vigilance, then put an argent counter on a permanent you control. (It gains “{T}: Add {C}.”)</text>
+    </card>
+    <card>
+      <name>Boreal Regilich</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5BB</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Giant Skeleton </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Boreal Regilich can’t be blocked by creatures with occlude or by enchantment creatures.
+Occlude 6CB (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.)</text>
+    </card>
+    <card>
+      <name>Panicwright</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Panicwright enters with a +1/+1 counter on it.
+When Panicwright enters, for each permanent you control with a counter on it, create a 1/1 white Human creature token that can’t block.</text>
+    </card>
+    <card>
+      <name>Overtax</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each opponent discards two cards. Put an argent counter on target permanent. (It gains “{T}: Add {C}.”)</text>
+    </card>
+    <card>
+      <name>Cryptic Locksmith</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1CWU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Demigod Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+When Cryptic Locksmith enters, create two 1/1 colorless Avatar Citizen enchantment creature tokens with “ {2}, Sacrifice this creature: Draw a card.”</text>
+    </card>
+    <card>
+      <name>Midnight Crossroads</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>CUB</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your end step, if you haven’t cast a spell from your hand this turn, choose one—
+• Draw a card, then each player discards a card.
+• Pay {X}. Create a 1/1 black Warlock creature token and put X +1/+1 counters on it.
+• Target creature gets -2/-2 until the start of your next turn.</text>
+    </card>
+    <card>
+      <name>Lorebroker Lich</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Zombie Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>7/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Lorebroker Lich enters, discard two cards.
+When Lorebroker Lich dies, you gain 4 life, each opponent loses 4 life, and you draw two cards.
+Occlude 5CB (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.)</text>
+    </card>
+    <card>
+      <name>Ancient Mine</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Ancient Mine enters tapped.
+When Ancient Mine enters, return a land you control to its owner’s hand. (It’s revealed.)
+{T}: Add {C} and one mana of any color.
+Occlude 2C (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.)</text>
+    </card>
+    <card>
+      <name>Hall of Cups (1523)</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile the top two cards of your library. You may play them until end of turn.
+Research — {R}, Discard a card. ({R}, Discard a card, Exile this card from your graveyard: After the next draw step, cast a copy of it without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Cardinal of Capital</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>CB</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warlock Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+{T}, Pay 1 life: Put an argent counter on another target permanent. (It gains “{T}: Add {C}.”)</text>
+    </card>
+    <card>
+      <name>Obfuscate</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>1C</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one—
+• Counter target triggered ability.
+• Counter target enchantment spell.
+• Target nonland permanent loses all abilities this turn.</text>
+    </card>
+    <card>
+      <name>Arrelsian Salt</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Arrelsian Salt enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.
+Equipped creature gets +2/+2 and can’t be blocked by enchantment creatures.
+Equip 3C</text>
+    </card>
+    <card>
+      <name>Tenement Lord</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Drone Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+Flying
+Whenever you sacrifice a permanent, discard a card, or gain life, each opponent loses 1 life. If you have the city’s blessing, Tenement Lord gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Oneiric Idols</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+When Oneiric Idols enters, target creature gets -1/-1 until end of turn. You gain 1 life.
+2C, {T}, Sacrifice Oneiric Idols: Return up to one target creature card and up to one enchantment card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Aspiration to the Forum</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +2/+2.
+When Aspiration to the Forum enters, create two 1/1 white Human creature tokens that can’t block.</text>
+    </card>
+    <card>
+      <name>Material Conditions (1963)</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>CUR</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards, then discard X cards. Choose X.
+• This spell deals 2 damage to any target.
+• Create a 2/2 colorless Drone Citizen enchantment creature token with vigilance.
+• Put an argent counter on target permanent. (It gains “{T}: Add {C}.)
+Research 2CCC (2CCC, Exile this card from your graveyard during an opponent’s end step: After the next draw step, cast a free copy of it.)</text>
+    </card>
+    <card>
+      <name>Mnekgn, Dead Fates&apos; Voice</name>
+      <set rarity="mythic">WAS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3CB</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Demon Angel Human </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, lifelink
+When Mnekgn, Dead Fates’ Voice enters, each player mills two cards. Then, exile all graveyards.
+As long as you have one or fewer cards in hand, Mnekgn has all activated abilities of cards exiled with it and you may play cards exiled with it.</text>
+    </card>
+    <card>
+      <name>Servant of the Stars</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>8C</manacost>
+        <cmc>9</cmc>
+        <type>Enchantment Creature - Avatar Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+This spell costs {1} less to cast for each enchantment you control and each enchantment card in your graveyard.</text>
+    </card>
+    <card>
+      <name>Tabula Mundi (Undated)</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Mill two cards, then you may return a permanent card from your graveyard to your hand.
+Research 2G (2G, Exile this card from your graveyard during an opponent’s end step: After the next draw step, cast a free copy of it.)</text>
+    </card>
+    <card>
+      <name>Unmoored Signifier</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>2C</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Unmoored Signifier can’t block or be blocked by nonenchantment creatures.</text>
+    </card>
+    <card>
+      <name>Mask-Over-Nothing</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>7CC</manacost>
+        <cmc>9</cmc>
+        <type>Enchantment Creature - Horror Drone  </type>
+        <maintype>Creature</maintype>
+        <pt>7/12</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Mask-Over-Nothing enters, you may create an enchantment token named Alienation with “Nonenchantment creatures can’t block enchantment creatures.”
+Vigilance, lifelink, deathtouch
+Enchantments you control have hexproof from instants.</text>
+    </card>
+    <card>
+      <name>Walled Gardens (1428)</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw a card.
+Research 2U (2U, Exile this card from your graveyard during an opponent’s end step: After the next draw step, cast a free copy of it.)</text>
+    </card>
+    <card>
+      <name>Mandate of Heaven</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Great Work 2CWW (If you cast this for its Great Work cost, exile it as it resolves. When it’s exiled, create Opus, a legendary artifact with “At the beginning of your first main phase, cast a copy of the exiled card without paying its mana cost.”)
+Exile target creature you control, then return it to the battlefield with a flying counter on it. It becomes an Angel in addition to its other types.</text>
+    </card>
+    <card>
+      <name>Rinen, Saint of the Shot</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Demigod Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Rinen, Saint of the Shot enters with a reach counter on it.
+{1}, Remove a counter from Rinen: Rinen deals damage equal to its power to target creature. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Plumage Radiant (703)</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 1/1 white Bird creature token with flying and “{2}, {T}, Sacrifice this creature: You gain 3 life.”
+Research 1W (1W, Exile this card from your graveyard during an opponent’s end step: After the next draw step, cast a free copy of it.)</text>
+    </card>
+    <card>
+      <name>Skinstretch</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>4B/R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Demon Human </type>
+        <maintype>Creature</maintype>
+        <pt>5/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as you have one or fewer cards in hand, Skinstretch gets +1/+1 and has menace.
+Occlude 2CBR (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.)</text>
+    </card>
+    <card>
+      <name>Vessel of Sulfur</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1R/WR/W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental Human </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vessel of Sulfur enters with a +1/+1 counter and a double strike counter on it.</text>
+    </card>
+    <card>
+      <name>Dreams of the Domesticated</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2G/W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Avatar Beast </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Dreams of the Domesticated enters, create a 1/1 colorless Avatar Citizen enchantment creature token with “ {2}, Sacrifice this creature: Draw a card.”</text>
+    </card>
+    <card>
+      <name>Silent Wight</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Zombie Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch, lifelink
+Occlude 2CB (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.)</text>
+    </card>
+    <card>
+      <name>Fabula Terra</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>1RG</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Drone Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Fabula Terra enters, you may sacrifice a land or pay {2}. If you do, create a tapped artifact token named Sol Ring with “{T}: Add CC.”
+{7}: Fabula Terra gets +7/+7 until end of turn.</text>
+    </card>
+    <card>
+      <name>Weidor Acquisitions Unit</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>CRG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you spend five or more mana to pay a cost, put your choice of a first strike, trample, reach, vigilance, or +1/+1 counter on Weidor Acquisitions Unit.</text>
+    </card>
+    <card>
+      <name>Inquisitive Archivist</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your end step, if you haven’t cast a spell from your hand this turn, choose one that hasn’t been chosen.
+• Draw two cards, then discard a card.
+• Untap up to three target permanents.
+• Pay 3 life and sacrifice Inquisitive Archivist. When you do, create a tapped colorless 7/7 Horror Drone enchantment creature token with menace.</text>
+    </card>
+    <card>
+      <name>Secret Keeper</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Sphinx Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>6/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+{1}: Turn Secret Keeper face down. It’s a Penumbra land with “{T}: Add {C}.”
+Occlude 2CCCU (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.)</text>
+    </card>
+    <card>
+      <name>Undying Obsession</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As Undying Obsession enters, choose a creature card name.
+At the beginning of your first main phase, you may discard your hand. If you do, return any number of cards with the chosen name from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Opener of Gates</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>2C</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Avatar Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add CC. This mana can’t be spent to cast spells for their mana costs. (Alternate and additional costs aren’t mana costs.)
+{2}, Exile Opener of Gates from your hand or graveyard: Scry 1, then draw a card.</text>
+    </card>
+    <card>
+      <name>Industrialize</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Distribute two argent counters among permanents you control. (Argent counters grant “{T}: Add {C}.”)
+• Exile target artifact or enchantment.</text>
+    </card>
+    <card>
+      <name>Vessel of Salt</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elemental Human </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Vessel of Salt enters, put a defender counter on up to one target creature. </text>
+    </card>
+    <card>
+      <name>Vessel of Mercury</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elemental Human </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vessel of Mercury enters with a hexproof, a flying, and two +1/+1 counters on it.
+At the beginning of your end step, move any number of counters from among permanents you control onto other permanents.</text>
+    </card>
+    <card>
+      <name>Desire</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Desire enters, discard two cards.
+Whenever Desire is turned face up, attacks, or dies, target opponent discards a card. If that card has mana value less than the number of enchantments you control, they lose 3 life.
+Occlude 3CBR  (You may play this face down as a tapped Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.)              </text>
+    </card>
+    <card>
+      <name>Discernible Librarian</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Avatar Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever an enchantment, instant, or sorcery card is put into your graveyard from anywhere, put a +1/+1 counter on Discernible Librarian. This ability triggers only once each turn.</text>
+    </card>
+    <card>
+      <name>Demotivate</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>2C</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature with power, toughness, or mana value 4 or less. </text>
+    </card>
+    <card>
+      <name>Cryptic Fascination</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>1C</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two 1/1 colorless Avatar Citizen enchantment creature tokens with “ {2}, Sacrifice this creature: Draw a card.”</text>
+    </card>
+    <card>
+      <name>End of the Earth</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>5C</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment Creature - Drone Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When End of the Earth enters, create an enchantment token named Malaise with “At the beginning of your end step, each opponent loses 1 life.”</text>
+    </card>
+    <card>
+      <name>Ancient Armanite</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>6R</manacost>
+        <cmc>7</cmc>
+        <type>Artifact Creature - Demigod Serpent </type>
+        <maintype>Creature</maintype>
+        <pt>7/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Occlude 5CRR (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.)</text>
+    </card>
+    <card>
+      <name>Secret Roots (1882)</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>2C</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put two +1/+1 counters on target permanent you control. If it isn’t a creature, draw a card.
+Research 2C (2C, Exile this card from your graveyard during an opponent’s end step: After the next draw step, cast a free copy of it.)</text>
+    </card>
+    <card>
+      <name>Clarity</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>6/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {X} less to cast, where X is the lowest mana value among nonland permanents you control.</text>
+    </card>
+    <card>
+      <name>Dream of the Hall</name>
+      <set rarity="">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Enchantment Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Dream of the Hall enters, sacrifice it. When you do, search your library for a basic Swamp or Mountain card and put it onto the battlefield tapped with an argent counter on it. (It gains “{T}: Add {C}.”)</text>
+    </card>
+    <card>
+      <name>Clarion Chariot</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Avatar Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+Whenever Clarion Chariot attacks, put a your choice of a trample or menace counter on target creature. If you have the city’s blessing, that creature gets +3/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Dreamdouser</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment Creature - Drone Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{2/C}, Sacrifice Dreamdouser: Counter target enchantment, instant, or sorcery spell unless its controller pays {2}.</text>
+    </card>
+    <card>
+      <name>Oasis Tasseomancer</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Oasis Tasseomancer enters or is turned face up, creatures you control gain indestructible until end of turn. Untap them.
+Occlude 2CW (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.)</text>
+    </card>
+    <card>
+      <name>Jailhouse Architect</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment Creature - Avatar Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+4W: Put a +1/+1 counter on Jailhouse Architect. If you have the city’s blessing, other creatures you control get +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Melvil, Paragon of Excess</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, first strike
+Whenever you gain life, put two +1/+1 counters on Melvil, Paragon of Excess. Then if its power is 8 or greater and it’s not an Angel, put a flying counter on it. It becomes an Angel in addition to its other types. Create four 1/1 white Human creature tokens that can’t block.</text>
+    </card>
+    <card>
+      <name>Logistical Difficulty</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Logistical Difficulty enters, exile target nonenchantment creature or artifact with mana value 3 or less until Logistical Difficulty leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>Hallowed Hermit</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Angel Human Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, lifelink
+Whenever an enchantment or land you control enters, put a faith counter on Hallowed Hermit.
+5W: Hallowed Hermit gets +1/+1 and gains flying until end of turn. This ability costs {1} less to activate for each counter on permanents you control.</text>
+    </card>
+    <card>
+      <name>Inner Angel</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +2/+2, has flying, and is an Angel in addition to its other types.
+When Inner Angel enters, exile all artifacts and enchantments with mana value 3 or less.</text>
+    </card>
+    <card>
+      <name>Notion Retailer</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment Creature - Drone Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+1C/U: Put a vigilance counter on target permanent. 
+2C/U: Put a flying counter on target permanent.
+3C/U: Draw a card.</text>
+    </card>
+    <card>
+      <name>Paranoid Crank</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Protection from enchantments (This creature can’t be blocked, targeted, dealt damage, or enchanted by enchantments.)
+4CU, Exile Paranoid Crank from your graveyard: Draw three cards.</text>
+    </card>
+    <card>
+      <name>Midnight Solstice (1919)</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures your opponents control get -8/-0 until end of turn. Scry 1.
+Research {U} ({U}, Exile this card from your graveyard during an opponent’s end step: After the next draw step, cast a free copy of it.)</text>
+    </card>
+    <card>
+      <name>Symbolist</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Symbolist deals combat damage to an opponent, draw a card.
+3U: Symbolist can’t be blocked this turn. This ability costs {1} less to activate for each kind of counter among permanents you control.</text>
+    </card>
+    <card>
+      <name>Eversion Theorist</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Wizard Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may look at the top card of your library any time.
+{1}: Mill a card.
+Whenever you activate a nonmana ability of a card in your graveyard, copy that ability. You may choose new targets for the copy.</text>
+    </card>
+    <card>
+      <name>Universal Sublimation</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast for each kind of counter on permanents you control.
+The owner of target nonland permanent may put it on the bottom of their library. If they don’t, put that permanent on top of its owner’s library and you draw a card.</text>
+    </card>
+    <card>
+      <name>Syllable of the World&apos;s Name</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Great Work — 2CCU, Mill five cards. (If you cast this for its Great Work cost, exile it as it resolves. When it’s exiled, create Opus, a legendary artifact with “At the beginning of your first main phase, cast a copy of the exiled card without paying its mana cost.”)
+Draw a card, then mill a card.</text>
+    </card>
+    <card>
+      <name>Relentless Mind</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2CU</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+Whenever an instant, sorcery, or enchantment card is put into your graveyard from anywhere, draw a card. This ability triggers only once each turn unless you have the city’s blessing.</text>
+    </card>
+    <card>
+      <name>Trench Garasyne</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Demon Fish </type>
+        <maintype>Creature</maintype>
+        <pt>3/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Discard a card: Switch Trench Garasyne’s power and toughness until end of turn.
+Occlude 1CU (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.)
+When Trench Garasyne is turned face up, return a creature you control to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Omniscience Aspirant</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment Creature - Wizard Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you draw a card, put a +1/+1 counter on Omniscience Aspirant.
+Whenever you cast a spell, if no mana was spent to cast it, draw a card.</text>
+    </card>
+    <card>
+      <name>Status Choir</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment Creature - Horror Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Status Choir enters, each opponent loses 1 life and you gain 1 life.
+At the beginning of each end step, you may pay XB, where X is the number of cards in your hand. If you do, return Status Choir from your graveyard to the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Love Bomb</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You gain 3 life. When you do, exile target creature with mana value X or less, where X is the amount of life you’ve gained this turn.</text>
+    </card>
+    <card>
+      <name>Advanced Naberian</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5BB</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Demon Demigod Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>9/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {1} less to cast for each creature that died this turn.
+Occlude 10CB. This cost is reduced by {2} for each creature that died this turn. (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.)</text>
+    </card>
+    <card>
+      <name>Manifold Torment (1291)</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gains indestructible until end of turn. Put your choice of a lifelink or deathtouch counter on it. 
+Research 1B (1B, Exile this card from your graveyard during an opponent’s end step: After the next draw step, cast a free copy of it.)</text>
+    </card>
+    <card>
+      <name>Unresolved Symbolism</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+When Unresolved Symbolism enters or is sacrificed, up to one target creature gets -4/-4 until end of turn.
+2CB, Sacrifice Unresolved Symbolism: You draw two cards and you gain 2 life. Activate only as a sorcery and if you have the city’s blessing.</text>
+    </card>
+    <card>
+      <name>Dangerous Thought</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+At the beginning of your upkeep, each player loses 1 life. Then if you have the city’s blessing, you draw a card.</text>
+    </card>
+    <card>
+      <name>Inner Demon</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +2/+2, has flying, and is a Demon in addition to its other types.
+When Inner Demon enters, all non-Demon creatures get -2/-2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Jericho, Ritualist Kingpin</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you discard a card, you may exile it from your graveyard. If you do, create a 1/1 black Rogue creature token with “When this creature dies, you may play the exiled card until the end of your next turn.” Do this only once each turn.
+{T}, Sacrifice two tokens: Add BBB. If they were named Opus and Sol Ring, you may pay {B} rather than the mana cost of spells you cast this turn.</text>
+    </card>
+    <card>
+      <name>Light of the Quarry</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever Light of the Quarry enters or attacks, it deals 5 damage divided as you choose among any number of target creatures or planeswalkers.
+7CR: Put six +1/+1 counters on Light of the Quarry. It becomes a 0/0 Drone Horror enchantment creature with flying. Activate only once.</text>
+    </card>
+    <card>
+      <name>Tantra Dancer</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Avatar Beast </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you discard a card, you may exile that card from your graveyard. If you do, you may play that card until the end of your next turn.
+Discard a card: Tantra Dancer gets +3/-3 until end of turn. Put your choice of a reach, menace, first strike, or trample counter on it.</text>
+    </card>
+    <card>
+      <name>Amori Alembia (1616)</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile the top four cards of your library with path counters on them. You may play cards from among cards you own in exile with path counters on them this turn.
+Research — 2R, Shuffle your hand into your library. ( Exile this card from your graveyard and pay its research cost: After the next draw step, cast a copy of it without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Vitriol of the Masses</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Drone Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+Double strike, reach
+Vitriol of the Masses can’t attack unless you have the city’s blessing.</text>
+    </card>
+    <card>
+      <name>Clastedox Executioners</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Clastedox Executioners dies, it deals 2 damage to target creature an opponent controls.
+Occlude 4CRR (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.)
+When Clastedox Executioners is turned face up, create three tokens that are copies of it.</text>
+    </card>
+    <card>
+      <name>Gestating Anomaly</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Illusion Carrier </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{R}, Exile Gestating Anomaly: Add CCR. At the beginning of the next end step, return Gestating Anomaly to its owner’s hand. You can’t activate this ability during combat.</text>
+    </card>
+    <card>
+      <name>Portent of Coming Storms</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>6R</manacost>
+        <cmc>7</cmc>
+        <type>Enchantment Creature - Avatar  </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {1} less to cast for each counter on permanents you control.
+Menace, haste
+{R}, Discard Portent of Coming Storms: Put a menace counter, a haste counter, and a +1/+1 counter on target creature.</text>
+    </card>
+    <card>
+      <name>Tongue of the Maw</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment Creature - Avatar Beast </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Tongue of the Maw enters, you may play an additional land this turn. The next land you play this turn enters tapped.
+5CG: Until end of turn, Tongue of the Maw gets +6/+6, gains trample, and must be blocked if able. </text>
+    </card>
+    <card>
+      <name>Somewhere-Stranger</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Avatar Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+{2}, Sacrifice Somewhere-Stranger: Return target card not named Somewhere-Stranger from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Digestion Herald</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Horror Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice a token or pay {2}.
+When Digestion Herald dies, create three 0/1 green Egg creature tokens with “{3}, {T}, Sacrifice this creature: Create a 3/2 green Worm creature token.”</text>
+    </card>
+    <card>
+      <name>Juvenile Anaithnid</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add one mana of any color.
+{2}: Put a +1/+1 counter on Juvenile Anaithnid. If it’s a creature, it becomes an artifact. If it’s a noncreature artifact, it becomes a creature.</text>
+    </card>
+    <card>
+      <name>Preservation Expert</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Zombie Druid </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Preservation Expert enters with a defender counter on it.
+Whenever a permanent you control becomes the target of a spell or ability an opponent controls, you draw a card and you gain 3 life.
+Occlude 3CG (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.)</text>
+    </card>
+    <card>
+      <name>Invisible Hands </name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment Creature - Drone Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>5/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+Reach, vigilance
+When Invisible Hands dies, choose one. If you have the city’s blessing, instead choose both.
+• Untap up to five target lands you control.
+• Scry 2, then draw a card.</text>
+    </card>
+    <card>
+      <name>Mutamorph</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XG</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Zombie Homunculus Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Mutamorph enters with X +1/+1 counters on it.
+{T}: Add one mana of any type.
+3CG: Double the number of +1/+1 counters on Mutamorph.</text>
+    </card>
+    <card>
+      <name>Manual of Three Paths (1531)</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create an X/X green Avatar Beast enchantment creature token with trample, where X is the number of lands you control. If this card was researched, create two of those tokens instead.
+Research 7GGG (7GGG, Exile this card from your graveyard during an opponent’s end step: After the next draw step, cast a free copy of it.)</text>
+    </card>
+    <card>
+      <name>Inertia</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When Inertia dies, put four +1/+1 counters and a trample counter on up to one target permanent.
+Occlude — 1CG, Tap any number of untapped creatures you control with total power 4 or greater. (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.)</text>
+    </card>
+    <card>
+      <name>Stir the Soil</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Great Work 3CG  (If you cast this for its Great Work cost, exile it as it resolves. When it’s exiled, create Opus, a legendary artifact with “At the beginning of your first main phase, cast a copy of the exiled card without paying its mana cost.”)
+Put two +1/+1 counters on target land you control. Untap it. Until end of turn, it becomes a 2/2 Elemental land creature with trample, vigilance, and haste.</text>
+    </card>
+    <card>
+      <name>Steel the Mind</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may have target creature you control gains protection from enchantments until end of turn. Then you may have it fight target creature you don’t control. (It can’t be damaged, blocked, targeted, or enchanted by enchantments.)</text>
+    </card>
+    <card>
+      <name>Amoral Academic</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Rogue Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever an enchantment, instant, or sorcery card is put into your graveyard from anywhere, choose one that hasn’t been chosen this turn.
+• Scry 1.
+• Put a +1/+1 counter on target creature.
+• You may play an additional land this turn.</text>
+    </card>
+    <card>
+      <name>Fearmonger</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Drone Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you draw a card, put your choice of a vigilance, menace, reach, haste, or argent counter on up to one target creature. (Argent counters grant “{T}: Add {C}.”)</text>
+    </card>
+    <card>
+      <name>Rotten Foundations</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1BG</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each player sacrifices a nontoken creature.
+Create two 0/1 green Egg creature tokens with “{3}, {T}, Sacrifice this creature: Create a 3/2 green Worm creature token.”</text>
+    </card>
+    <card>
+      <name>Cavali Ascetic</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2GW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Monk Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, lifelink
+Whenever a land or enchantment you control enters, put a +1/+1 counter on up to one target creature and up to one target Penumbra. Untap them.</text>
+    </card>
+    <card>
+      <name>Alreonic Synthesis</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>6UR</manacost>
+        <cmc>8</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast for each kind of counter among permanents you control.
+Create a 0/0 colorless Homunculus artifact creature token. It gains haste until end of turn. You may move any number of counters from permanents you control onto it. For each counter you move this way, draw a card.</text>
+    </card>
+    <card>
+      <name>Enigmatic Intentions</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UB</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+You may cast enchantment spells and sorcery spells as though they had flash.
+{2}: Put a +1/+1 counter on Enigmatic Intentions. You may have it become a 0/0 Horror Citizen enchantment creature with menace and vigilance until end of turn.</text>
+    </card>
+    <card>
+      <name>Intricate Overseer</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>WU</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Avatar Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+Flying
+As long as you have the city’s blessing, creatures you control have vigilance and “{2}, {T}: Draw a card.”</text>
+    </card>
+    <card>
+      <name>Altered State</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may discard a card. If you do, exile the top card of your library and a creature card from your graveyard. You may play those cards until the end of your next turn.
+Add CC.</text>
+    </card>
+    <card>
+      <name>Iori Leyspire</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Iori Leyspire enters or is put into a graveyard from the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+CGW, Sacrifice Iori Leyspire: Create a tapped 2/2 colorless Drone Citizen enchantment creature token with vigilance.</text>
+    </card>
+    <card>
+      <name>Book of Weidor (1910)</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter and a reach counter on each creature you control. They gain indestructible until end of turn.
+Research 3RW (3RW, Exile this card from your graveyard during an opponent’s end step: After the next draw step, cast a free copy of it.)</text>
+    </card>
+    <card>
+      <name>Wallace</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>3WB</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Demon Bird Human </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Wallace enters, create Armand, a 2/3 legendary white and black Angel Bird Human creature token with flying and lifelink.
+Flying
+Whenever you gain life, each opponent loses 2 life unless they exile a card from their hand.</text>
+    </card>
+    <card>
+      <name>Strange Histories (1975)</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top three cards of your library. Put two of them into your graveyard and the rest into your hand.
+Research 3GU (3GU, Exile this card from your graveyard during an opponent’s end step: After the next draw step, cast a free copy of it.)</text>
+    </card>
+    <card>
+      <name>Thaumatic Discordance</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1CR</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose up to two —
+• Target creature gets +2/-2 until end of turn.
+• Target creature gets -2/+2 until end of turn.
+• Thaumatic Discordance deals 2 damage to each creature.</text>
+    </card>
+    <card>
+      <name>Horizonhorn</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XXCCGG</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Avatar Beast </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, vigilance, reach
+When Horizonhorn enters or is turned face up, create X tokens that are copies of it.
+Occlude—5CG, Sacrifice X creatures. (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.)</text>
+    </card>
+    <card>
+      <name>Worms in the World</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Create a 0/1 green Egg creature token with “{3}, {T}, Sacrifice this creature: Create a 3/2 green Worm creature token.”</text>
+    </card>
+    <card>
+      <name>The Sun-from-Silver</name>
+      <set rarity="mythic">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>5CCCCC</manacost>
+        <cmc>10</cmc>
+        <type>Legendary Enchantment Creature - Drone </type>
+        <maintype>Creature</maintype>
+        <pt>5/15</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When you cast this spell, choose one—
+• Create an enchantment token named Labor with “Nonland permanents your opponents control lose all abilities and are 0/1 Citizen creatures.”
+• Create an enchantment token named Value with “Whenever a player casts a spell, exile target permanent that player controls, then return it to the battlefield under your control.”
+Double strike, deathtouch, vigilance</text>
+    </card>
+    <card>
+      <name>End of the Road</name>
+      <set rarity="mythic">WAS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Wizard Citizen  </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+At the beginning of your end step, if you haven’t cast a spell from your hand this turn, create a 1/1 white Human creature token that can’t block.
+{3}, Sacrifice another creature: Draw a card. This ability costs {3} less to activate if you have the city’s blessing.</text>
+    </card>
+    <card>
+      <name>Alley Anaithnid</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5CG</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Shapeshifter  </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Alley Anaithnid enters, choose one.
+• Exile target artifact or enchantment.
+• Exile target player’s graveyard.
+{1}, Put a card exiled with Alley Anaithnid into its owner’s graveyard: It gains your choice of trample, hexproof, or reach until end of turn.</text>
+    </card>
+    <card>
+      <name>Flame of the Flag</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>2C</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Drone Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flame of the Flag enters with a defender counter on it.
+{R}, Remove a defender counter from Flame of the Flag: Put a first strike counter on it. 
+3W, Remove a first strike counter from Flame of the Flag: Put a double strike counter on it. Draw a card.</text>
+    </card>
+    <card>
+      <name>Craven Face</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>4C</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment Creature - Horror Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Craven Face enters, exile target nonland permanent you don’t control until Craven Face leaves the battlefield.
+1B, Put a card exiled with Craven Face into its owner’s graveyard: Put a lifelink counter on it.
+5U: Put a card exiled with Craven Face onto the battlefield tapped under your control.</text>
+    </card>
+    <card>
+      <name>Dreamless Night</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target enchantment, instant, or sorcery spell unless its controller pays {3}.
+{U}, Discard Dreamless Night: If it’s your turn, end the turn. (Exile all spells and abilities from the stack. Discard down to your maximum hand size. Damage wears off, and “this turn” and “until end of turn” effects end.)</text>
+    </card>
+    <card>
+      <name>Rite of Many Mouths</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>BG</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Great Work 1CBG (If you cast this for its Great Work cost, exile it as it resolves. When it’s exiled, create Opus, a legendary artifact with “At the beginning of your first main phase, cast a copy of the exiled card without paying its mana cost.”)
+Creatures you control gain “When this creature dies, create a 3/2 green Worm creature token.” until end of turn.</text>
+    </card>
+    <card>
+      <name>Séance for the Signified</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Great Work 3CW (If you cast this for its Great Work cost, exile it as it resolves. When it’s exiled, create Opus, a legendary artifact with “At the beginning of your first main phase, cast a copy of the exiled card without paying its mana cost.”)
+You may exile a creature card with mana value 3 or less from your graveyard. If you do, create a token that’s a copy of it, except it’s an enchantment in addition to its other types.</text>
+    </card>
+    <card>
+      <name>Cold-Read Medium</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+At the beginning of your end step, if you haven’t cast a spell from your hand this turn, put a +1/+1 counter on each creature with menace you control.
+4B: Put a menace counter on another target permanent you control.</text>
+    </card>
+    <card>
+      <name>Intriguing Rumor</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>C</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment Creature - Avatar Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+When Intriguing Rumor enters or dies, scry 1. Then if you have the city’s blessing, draw a card.</text>
+    </card>
+    <card>
+      <name>Fleeting Impression</name>
+      <set rarity="common">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>1C</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Avatar Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+{2}, Exile a card from your graveyard: Fleeting Impression gets +2/+2 until end of turn. Activate only once each turn unless you have the city’s blessing.</text>
+    </card>
+    <card>
+      <name>Dissociation of Will</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>C</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target enchantment you control deals damage equal to its mana value plus its power (if it has power) to target creature. </text>
+    </card>
+    <card>
+      <name>Extoller of Endlessness</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>7C</manacost>
+        <cmc>8</cmc>
+        <type>Enchantment Creature - Avatar Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>10/10</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Extoller of Endlessness dies, exile it.
+1G, Discard this card: Create a token that’s a copy of target token you control. You can’t activate this ability during combat.
+1B, Sacrifice a token: Return Extoller of Endlessness from your graveyard to your hand. You can’t activate this ability during combat.</text>
+    </card>
+    <card>
+      <name>Ominous Immensity</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>1C</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your end step and whenever you put one or more non-foreshadow counters on a permanent, put a foreshadow counter on Ominous Immensity.
+1U, Remove two counters from Ominous Immensity: Scry 1, then draw a card.
+2R, Remove eight counters from Ominous Immensity: It deals 8 damage to any target.</text>
+    </card>
+    <card>
+      <name>Deep Secret</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>C</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each opponent’s end step, add CC. This mana can’t be spent to cast spells.</text>
+    </card>
+    <card>
+      <name>Dream Interpretation</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>4CC</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create four 1/1 colorless Avatar Citizen enchantment creature tokens with “{2}, Sacrifice this creature: Draw a card.”
+{W}, Discard this card: You gain 1 life. Draw a card.
+2G, Exile this card from your graveyard: Create a tapped X/X green Avatar Beast enchantment creature token with trample, where X is the number of enchantments you control.</text>
+    </card>
+    <card>
+      <name>Iori Coin</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sacrifice an enchantment: Add CC.</text>
+    </card>
+    <card>
+      <name>Alchemical Formulae</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Tap an untapped creature you control: Put an argent counter on it. (A permanent with an argent counter on it gains “{T}: Add {C}.”)
+{1}, {T}: Draw a card. Spend only mana produced by creatures to activate this ability.
+{2}, {T}, Discard a card: Create a 0/0 colorless Homunculus artifact creature token. Put two +1/+1 counters on it.</text>
+    </card>
+    <card>
+      <name>Missing Persons</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Demon Human </type>
+        <maintype>Creature</maintype>
+        <pt>6/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, lifelink
+Whenever Missing Persons becomes untapped, you may sacrifice a non-Demon creature. If you do, create a token that’s a copy of Missing Persons.
+Occlude 5CB (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.)</text>
+    </card>
+    <card>
+      <name>Extinguish All Reality</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>4CC</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile all nonenchantment creatures.</text>
+    </card>
+    <card>
+      <name>Awe</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3CW</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Awe is turned face up or attacks, exile up to one target creature with mana value X or less, where X is the number of enchantments you control. Its controller creates a 1/1 white Human creature token that can’t block.
+Occlude 3CCW (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.) </text>
+    </card>
+    <card>
+      <name>Desert of the Real</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy all creatures, then choose one, where X is the amount of {C} spent to cast this spell.
+• Put X +1/+1 counters on target permanent.
+• Return target enchantment card with mana value X or less from your graveyard to the battlefield.
+• You gain twice X life.</text>
+    </card>
+    <card>
+      <name>Hostile Representation</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Illusion Carrier </type>
+        <maintype>Creature</maintype>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As Hostile Representation enters and at the beginning of your upkeep, you may choose a creature you don’t control. If you don’t, tap Hostile Representation.
+Hostile Representation has protection from all creatures except the last chosen creature.</text>
+    </card>
+    <card>
+      <name>Networking Expert</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your end step, if you haven’t cast a spell from your hand this turn, double the number of each kind of counter on target permanent.
+Networking Expert enters with a connection counter on it.
+{T}, Pay 1 life: Add {C} for each connection counter on Networking Expert.</text>
+    </card>
+    <card>
+      <name>Seeker of the Hidden</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1CU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your end step, you may draw a card. If you do, discard a card unless a permanent you control entered face down this turn or you turned a permanent face up this turn.</text>
+    </card>
+    <card>
+      <name>Liber Chiaroscuro (1583)</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card from your graveyard to the battlefield. It gains “When a creature you control dies, exile this creature.”
+Research 3W (3W, Exile this card from your graveyard during an opponent’s end step: After the next draw step, cast a free copy of it.)</text>
+    </card>
+    <card>
+      <name>Roaring Vision</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+If you have the city’s blessing, until end of turn, if a source would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 1 instead.
+Roaring Vision deals 2 damage to any target.</text>
+    </card>
+    <card>
+      <name>Looming Eschatology</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment Creature - Horror Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+Whenever a creature dies, you may have Looming Eschatology deal damage equal to that creature’s power to any target. Do this only once each turn unless you have the city’s blessing.</text>
+    </card>
+    <card>
+      <name>Overflowing Vessel</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Demon Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess
+Whenever you cast a spell, if no mana was spent to cast it, add CR. Until end of turn, you don’t lose this mana as steps and phases end.
+{4}: Overflowing Vessel gains double strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Inspired Artifice</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Inspired Artifice enters, you may sacrifice a land or discard a card. If you do, create a tapped artifact token named Sol Ring with “{T}: Add CC.”
+{10}, Sacrifice Inspired Artifice: Exile an instant or sorcery card from your graveyard. If you do, create Opus, a legendary artifact with “At the beginning of your first main phase, cast a copy of the exiled card without paying its mana cost.”</text>
+    </card>
+    <card>
+      <name>Will of the Past</name>
+      <set rarity="mythic">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1CG</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+When Will of the Past enters, mill three cards.
+You may play lands from your graveyard.
+1CG, Exile Will of the Past: Exile your graveyard. If you have the city’s blessing, you may play cards from among cards exiled this way until end of turn.</text>
+    </card>
+    <card>
+      <name>Sessile Immortal</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Zombie Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender, reach
+At the beginning of your end step, put three +1/+1 counters on target land you control.
+Lands you control have “{1}, {T}, Remove X counters from this land: Add X mana in any combination of types.”</text>
+    </card>
+    <card>
+      <name>Secondary Successor</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Avatar Beast </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, if Secondary Successor is in your graveyard, you may return it to your hand.
+When Secondary Successor enters, put a +1/+1 counter on up to one target creature and up to one target land.</text>
+    </card>
+    <card>
+      <name>Paragon of the Cavali</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Monk Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, vigilance, reach
+Whenever you cast a spell, if no mana was spent to cast it, put X +1/+1 counters on Paragon of the Cavali, where X if Paragon of the Cavali’s power.</text>
+    </card>
+    <card>
+      <name>Veteran Dreamdelver</name>
+      <set rarity="mythic">WAS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Double strike, lifelink
+Protection from enchantments (This creature can’t be blocked, targeted, dealt damage, or enchanted by enchantments.)
+Whenever Veteran Dreamdelver deals combat damage to an opponent or dies, you may search your library for an enchantment card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Ava Parish, the Peacock Lord</name>
+      <set rarity="mythic">WAS</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink, vigilance
+Ava Parish’s abilities cost {X} less to activate, where X is the amount of life you gained this turn.
+2W, {T}: Create a 1/1 white Human creature token that can’t block. Put a lifelink counter on it.
+5B, Sacrifice a creature: Draw three cards.
+7WB: Return target creature card from your graveyard to the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Envoy of Elsewhere</name>
+      <set rarity="mythic">WAS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment Creature - Avatar Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+At the beginning of your upkeep, if you have the city’s blessing, create a 5/5 Illusion Archon creature token with flying that’s all colors.</text>
+    </card>
+    <card>
+      <name>Lyster, Occultist Oligarch</name>
+      <set rarity="mythic">WAS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>CCRR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Drone </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If you would lose unspent mana, that mana becomes colorless instead.
+{5}: Return Lyster, Occultist Oligarch from your graveyard to the battlefield tapped.
+{10}: Put a creature card from your hand onto the battlefield. If it has power less than 10, put +1/+1 counters on it equal to the difference.</text>
+    </card>
+    <card>
+      <name>Ceration of Memory</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose target creature you don’t control. Create a tapped artifact token named Sol Ring with “{T}: Add CC.” unless that creature’s controller sacrifices it.</text>
+    </card>
+    <card>
+      <name>The Last Iori</name>
+      <set rarity="mythic">WAS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>7R</manacost>
+        <cmc>8</cmc>
+        <type>Legendary Artifact Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>8/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>The Last Iori has indestructible during your turn.
+When The Last Iori enters, exile it unless it was cast.
+Whenever The Last Iori becomes untapped, for each permanent your opponents control, gain control of it unless its controller pays 2 life.
+Occlude 10CR (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.)</text>
+    </card>
+    <card>
+      <name>The Mawfather</name>
+      <set rarity="mythic">WAS</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>7BBGG</manacost>
+        <cmc>11</cmc>
+        <type>Legendary Enchantment Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>13/10</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, protection from noncreature card types
+Sacrifice a token: Destroy target creature.
+When The Mawfather is put into your graveyard from anywhere, shuffle it into your library. Then you may pay {B/G}. If you do, create a 0/1 green Egg creature token with “{3}, {T}, Sacrifice this creature: Create a 3/2 green Worm creature token.” </text>
+    </card>
+    <card>
+      <name>Sweat for the Sun</name>
+      <set rarity="mythic">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put an argent counter on each permanent you control. (A permanent with an argent counter on it gains “{T}: Add {C}.”)</text>
+    </card>
+    <card>
+      <name>Time-Worn Shell</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add two mana of any one type.
+Whenever you spend 5 or more mana to pay a cost, draw a card and put three +1/+1 counters on Time-Worn Shell.
+{5}: Time-Worn Shell becomes a 0/0 Zombie Construct artifact creature with trample and vigilance until end of turn.</text>
+    </card>
+    <card>
+      <name>Dream of the Spire</name>
+      <set rarity="">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Enchantment Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Dream of the Spire enters, sacrifice it. When you do, search your library for a basic Plains or Island card and put it onto the battlefield tapped with an argent counter on it. (It gains “{T}: Add {C}.”)</text>
+    </card>
+    <card>
+      <name>Dream of the Road</name>
+      <set rarity="">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Enchantment Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Dream of the Road enters, sacrifice it. When you do, search your library for a basic Island or Swamp card and put it onto the battlefield tapped with an argent counter on it. (It gains “{T}: Add {C}.”)</text>
+    </card>
+    <card>
+      <name>Dream of the Forum</name>
+      <set rarity="">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Enchantment Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Dream of the Forum enters, sacrifice it. When you do, search your library for a basic Forest or Plains card and put it onto the battlefield tapped with an argent counter on it. (It gains “{T}: Add {C}.”)</text>
+    </card>
+    <card>
+      <name>Dream of the Jailhouse</name>
+      <set rarity="">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Enchantment Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Dream of the Jailhouse enters, sacrifice it. When you do, search your library for a basic Mountain or Plains card and put it onto the battlefield tapped with an argent counter on it. (It gains “{T}: Add {C}.”)</text>
+    </card>
+    <card>
+      <name>Dream of the Tenement</name>
+      <set rarity="">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Enchantment Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Dream of the Tenement enters, sacrifice it. When you do, search your library for a basic Swamp or Forest card and put it onto the battlefield tapped with an argent counter on it. (It gains “{T}: Add {C}.”)</text>
+    </card>
+    <card>
+      <name>Dream of the Harbor</name>
+      <set rarity="">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Enchantment Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Dream of the Harbor enters, sacrifice it. When you do, search your library for a basic Island or Mountain card and put it onto the battlefield tapped with an argent counter on it. (It gains “{T}: Add {C}.”)</text>
+    </card>
+    <card>
+      <name>Dream of the Chapel</name>
+      <set rarity="">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Enchantment Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Dream of the Chapel enters, sacrifice it. When you do, search your library for a basic Plains or Swamp card and put it onto the battlefield tapped with an argent counter on it. (It gains “{T}: Add {C}.”)</text>
+    </card>
+    <card>
+      <name>Dream of the Library</name>
+      <set rarity="">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Enchantment Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Dream of the Library enters, sacrifice it. When you do, search your library for a basic Forest or Island card and put it onto the battlefield tapped with an argent counter on it. (It gains “{T}: Add {C}.”)</text>
+    </card>
+    <card>
+      <name>Wolf-at-the-Door</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>5CC</manacost>
+        <cmc>7</cmc>
+        <type>Enchantment Creature - Drone Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, menace, vigilance
+When Wolf-at-the-Door enters, create an enchantment token named Starvation with “Creatures your opponents control have base power and toughness 1/1.”
+At the beginning of combat on your turn, move any number of counters from among other permanents onto Wolf-at-the-Door.</text>
+    </card>
+    <card>
+      <name>Excavation Site Glyphs (undated)</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>C</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return up to one target enchantment card from your graveyard to your hand. If this spell was researched, return it to the battlefield instead.
+Research 3CC (3CC, Exile this card from your graveyard during an opponent’s end step: After the next draw step, cast a free copy of it.)</text>
+    </card>
+    <card>
+      <name>Lore of the Spire&apos;s Peak</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5U</manacost>
+        <cmc>6</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+Draw three cards. Then if you have the city’s blessing, untap up to five target permanents you control.</text>
+    </card>
+    <card>
+      <name>Immiseriphage</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>5C</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment Creature - Drone Horror </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Whenever a creature dies, add CCC.</text>
+    </card>
+    <card>
+      <name>Glare of the Sun</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>2CCC</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may spend {C} as though it were mana of any color.
+Whenever you cast a spell, if an amount of {C} was spent to cast it equal to that spell’s mana value, copy it. You may choose new targets for the copy.</text>
+    </card>
+    <card>
+      <name>Tome Dealer</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>URG</colors>
+        <manacost>1GUR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Demigod Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess
+If the beginning of a step or phase would cause an ability you control to trigger, that ability triggers an additional time.
+Instant and sorcery cards in your graveyard have research {X}, where X is their mana value. (Exile a card from your graveyard, Pay its research cost: At the beginning of the next first main phase, cast a copy of it. without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Sagani Immaterial (1536)</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>WURG</colors>
+        <manacost>RGWU</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a creature card, exile it, then shuffle. You may cast it during your turn for as long as it remains exiled this way. When you do, it enters with an additional first strike, trample, flying, vigilance, and four +1/+1 counters on it.
+Research RGWU (RGWU, Exile this card from your graveyard during an opponent’s end step: After the next draw step, cast a free copy of it.)</text>
+    </card>
+    <card>
+      <name>Friar Roger</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>3RW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Angel Human </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, lifelink, vigilance
+Permanents you control have “{1}, {T}, Remove a counter from this permanent: This permanent deals 1 damage to any target. Activate only as a sorcery.”
+Whenever a creature you control is dealt damage, put a +1/+1 counter on it (if it survives the damage). </text>
+    </card>
+    <card>
+      <name>Manufacture Precursor</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Drone Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+Whenever Manufacture Precursor or another enchantment or land you control enters, you may create a 1/1 white Human creature token that can’t block. Then if you have the city’s blessing, target creature gets +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Enchanted Evening</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>3W/UW/U</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>All permanents are enchantments in addition to their other types.</text>
+    </card>
+    <card>
+      <name>Pristine Leyworker</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>10</manacost>
+        <cmc>10</cmc>
+        <type>Artifact Creature - Zombie  </type>
+        <maintype>Creature</maintype>
+        <pt>11/11</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+If an opponent controls more lands than you, this spell costs {X} less to cast, where X is twice the difference.
+Trample, reach
+When Pristine Leyworker enters, if it was cast, create five artifact tokens named Sol Ring with “{T}: Add CC.”</text>
+    </card>
+    <card>
+      <name>Soiaroh</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost>10</manacost>
+        <cmc>10</cmc>
+        <type>Creature - Illusion Archon </type>
+        <maintype>Creature</maintype>
+        <pt>12/12</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Other permanents you control have protection from mana value 1 and greater.
+{2}, Discard Soiaroh: Draw a card. You gain 3 life.
+When Soiaroh is put into your graveyard from anywhere, you and any number of other target players shuffle their graveyard into their library.</text>
+    </card>
+    <card>
+      <name>Iori Edifice</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}, Exile Iori Edifice: Gain control of target nonbasic land you don’t control. Its controller may search their library for a basic land card and put it onto the battlefield or create a tapped artifact token named Sol Ring with “{T}: Add CC.” Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Aure Plateau Temple</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Penumbra </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Aure Plateau Temple enters tapped.
+{T}: Add {C}, {W}, or {U}.
+3WU: Put a flying counter on up to one target Penumbra you control without one.  Then you may have Aure Plateau Temple become a 3/4 white and blue Spirit Elemental creature until end of turn.</text>
+    </card>
+    <card>
+      <name>Peacock Retreat</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Penumbra </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Peacock Retreat enters tapped.
+{T}: Add {C}, {W}, or {B}.
+3WB: Put a lifelink counter on up to one target Penumbra you control without one.  Then you may have Peacock Retreat become a 3/6 white and black Demon Human creature until end of turn.</text>
+    </card>
+    <card>
+      <name>House of Cups and Wands</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Penumbra </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>House of Cups and Wands enters tapped.
+{T}: Add {C}, {B}, or {R}.
+1BR: Put a menace counter on up to one target Penumbra you control without one.  Then you may have House of Cups and Wands become a black and red 4/3 Demon Human creature until end of turn.</text>
+    </card>
+    <card>
+      <name>Grand Hall of High Alchemy</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Penumbra </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Grand Hall of High Alchemy enters tapped.
+{T}: Add {C}, {U}, or {R}.
+2UR: Put two +1/+1 counters on up to one target Penumbra you control. Then you may have Grand Hall of High Alchemy become a 0/0 colorless Homunculus artifact creature until end of turn.</text>
+    </card>
+    <card>
+      <name>Cavali Outpost</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Penumbra </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Cavali Outpost enters tapped.
+{T}: Add {C}, {G}, or {W}.
+1GW: Put a vigilance counter on up to one target Penumbra you control without one.  Then you may have Cavali Outpost become a 3/4 green and white Demigod Ranger creature until end of turn.</text>
+    </card>
+    <card>
+      <name>Regius Lodge</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Penumbra </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Regius Lodge enters tapped.
+{T}: Add {C}, {U}, or {B}.
+2UB: You may move a counter from up to one target creature you don’t control to target Penumbra you control. Then you may have Regius Lodge become a 3/2 blue and black Human Wizard creature until end of turn.</text>
+    </card>
+    <card>
+      <name>2518 Etous Road</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Penumbra </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>2518 Etous Road enters tapped.
+{T}: Add {C}, {B}, or {G}.
+BG: Put a deathtouch counter on up to one target Penumbra you control without one. Then you may have 2518 Etous Road become a 3/2 green Worm creature until end of turn.</text>
+    </card>
+    <card>
+      <name>Psorai Rare Books</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Penumbra </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Psorai Rare Books enters tapped.
+{T}: Add {C} or {G}, or {U}.
+3GU:Put a hexproof counter on up to one target Penumbra you control without one.  Then you may have Psorai Rare Books become a 5/5 green and blue Zombie Wizard creature until end of turn.</text>
+    </card>
+    <card>
+      <name>Clastedox Freepoint</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Penumbra </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Clastedox Freepoint enters tapped.
+{T}: Add {C}, {R}, or {W}.
+2RW: Put a first strike counter on up to one target Penumbra you control without one.  Then you may have Clastedox Freepoint become a 4/5 red and white Demigod Soldier creature until end of turn.</text>
+    </card>
+    <card>
+      <name>Weidor, Seat of Power</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Weidor, Seat of Power enters, you gain 1 life for each land you control that could produce {C}. Then put an argent counter on each land you control that can’t produce {C}. (Argent counters grant “{T}: Add {C}.”)</text>
+    </card>
+    <card>
+      <name>Middle of Nowhere</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Penumbra </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>You may have Middle of Nowhere enter tapped. If you do, it enters with an indestructible counter on it.
+{T}: Add {C}.
+{3}: Middle of Nowhere becomes a copy of target creature you control until end of turn.</text>
+    </card>
+    <card>
+      <name>Gate to the Garden</name>
+      <set rarity="mythic">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Enchantment Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+As long as you have the city’s blessing, costs you pay to turn permanents face up are reduced by {3}.
+Occlude {0} (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.)</text>
+    </card>
+    <card>
+      <name>Manuela, Twice-Great</name>
+      <set rarity="mythic">WAS</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Planeswalker - Manuela </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Occlude 2CCWU
+As Manuela is turned face up, put seven loyalty counters on her. You may activate her loyalty abilities any time you could cast an instant this turn.
+[+1]: Untap target creature. It gains flying and indestructible until end of turn.
+[-2]: Target creature becomes a (noncreature) enchantment until Manuela leaves the battlefield.
+[-9]: You get an emblem with “Untap all permanents you control during each untap step.”</text>
+    </card>
+    <card>
+      <name>Leutner, the Luminary</name>
+      <set rarity="mythic">WAS</set>
+      <prop>
+        <colors>WUG</colors>
+        <manacost>CGWU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Enchantment Creature - Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{3}: Return Leutner to its owner’s hand.
+Whenever you spend mana to pay a cost that isn’t the mana cost of a spell you cast from your hand, you may cast a spell with mana value X or less from your hand without paying its mana cost, where X is the amount of mana spent. Do this only once each turn. (Alternate and additional costs aren’t mana costs.)</text>
+    </card>
+    <card>
+      <name>Miriam, Para-Economist</name>
+      <set rarity="mythic">WAS</set>
+      <prop>
+        <colors>UBR</colors>
+        <manacost>CUBR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell can’t be countered.
+When Miriam, Para-Economist enters, exile your hand, target nonbasic permanent, and the top card of each library in a face-down pile. Shuffle that pile. For as long as those cards remain exiled, you may look at and play them, and you may spend {C} as though it were mana of any color to cast them.</text>
+    </card>
+    <card>
+      <name>Chrysopoeia</name>
+      <set rarity="mythic">WAS</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>1URW</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose a nonland permanent type. Exile all permanents of the chosen type. Each player who controlled a permanent exiled this way may exile cards from the top of their library until they exile a nonland card of the chosen type, then cast that card without paying its mana cost.</text>
+    </card>
+    <card>
+      <name>Inconvenient Timing</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Return all tapped creatures to their owners’ hands.
+• Return all untapped creatures to their owners’ hands.</text>
+    </card>
+    <card>
+      <name>See the Aeons</name>
+      <set rarity="mythic">WAS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Great Work 5CU  (If you cast this for its Great Work cost, exile it as it resolves. When it’s exiled, create Opus, a legendary artifact with “At the beginning of your first main phase, cast a copy of the exiled card without paying its mana cost.”)
+Create X tokens that are copies of target creature you control, where X is the number of permanents you control with that creature’s name. </text>
+    </card>
+    <card>
+      <name>Eintec Manufacturing Offices</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Penumbra </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Eintec Manufacturing Offices enters tapped.
+{T}: Add {C}, {R}, or {G}.
+4RG: Put a trample counter on up to one target Penumbra you control without one.  Then you may have Eintec Manufacturing Offices become an 7/7 red and green Human Mercenary Army creature until end of turn.</text>
+    </card>
+    <card>
+      <name>Smuggler&apos;s Den</name>
+      <set rarity="uncommon">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}: Add one mana of any color. This mana can’t be spent to cast spells from your hand.</text>
+    </card>
+    <card>
+      <name>Aggrandize</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {X} less to cast, where X is the total mana value among enchantments you control.
+Until end of turn, your life total can’t change and permanents you control gain indestructible.</text>
+    </card>
+    <card>
+      <name>Anaithilith</name>
+      <set rarity="mythic">WAS</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>XGU</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Shapeshifter Egg </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Anaithilith enters with X +1/+1 counters on it.
+When Anaithilith enters or is turned face up, counter target spell if X or less mana was spent to cast it.
+Occlude — 1CGU, Exile X cards from your graveyard.  (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.)</text>
+    </card>
+    <card>
+      <name>Contemplation</name>
+      <set rarity="rare">WAS</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>2GU</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>2/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lands you control have “{T}: Add CC. You can’t spend this mana to cast spells.”
+Occlude 2CGU (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.)
+Whenever Contemplation or another permanent you control is turned face up, untap it, then draw a card.</text>
+    </card>
+    <card>
+      <name>Ananthrogenesis (1908)</name>
+      <set rarity="mythic">WAS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose Zombie, Avatar, or Demigod. Target creature becomes the chosen creature type (and loses all others).
+• Zombie — Put an indestructible counter on it. It gains “This creature can’t block.”
+• Avatar — Put a hexproof and defender counter on it.
+• Demigod — Put two +1/+1 counters on it.
+Research 1UB (1UB, Exile this card from your graveyard during an opponent’s end step: After the next draw step, cast a free copy of it.)</text>
+    </card>
+    <card>
+      <name>Forest</name>
+      <set rarity="">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <set rarity="">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Plains</name>
+      <set rarity="">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island</name>
+      <set rarity="">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Mountain</name>
+      <set rarity="">WAS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Warlock Token WAS</name>
+      <set>WAS</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Homunculus Token WAS</name>
+      <set>WAS</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Homunculus </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Bird Token WAS</name>
+      <set>WAS</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+{2}, {T}, Sacrifice this creature: You gain 3 life.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Human Token WAS</name>
+      <set>WAS</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature can’t block.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Malaise WAS</name>
+      <set>WAS</set>
+      <prop>
+        <colors></colors>
+        <type>Token Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your end step, each opponent loses 1 life and you gain 1 life.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Copy WAS</name>
+      <set>WAS</set>
+      <prop>
+        <colors></colors>
+        <type>Token </type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Egg Token WAS</name>
+      <set>WAS</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Egg </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{3}, {T}, Sacrifice this creature: Create a 3/2 green Worm creature token.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Worm Token WAS</name>
+      <set>WAS</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Worm </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Penumbra WAS</name>
+      <set>WAS</set>
+      <prop>
+        <colors></colors>
+        <type>Land - Penumbra </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+(You can cover a face-down permanent with occlude with this reminder card. 
+A card with occlude can be turned face up at any time for its occlude cost.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Sol Ring WAS</name>
+      <set>WAS</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add CC.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Avatar Citizen Token  WAS</name>
+      <set>WAS</set>
+      <prop>
+        <colors></colors>
+        <type>Token Enchantment Creature - Avatar Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{2}, Sacrifice this creature: Draw a card.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Drone Citizen Token  WAS</name>
+      <set>WAS</set>
+      <prop>
+        <colors></colors>
+        <type>Token Enchantment Creature - Drone Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Illusion Archon Token WAS</name>
+      <set>WAS</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Illusion Archon </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature is all colors.
+Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Avatar Beast Token  WAS</name>
+      <set>WAS</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Enchantment Creature - Avatar Beast </type>
+        <maintype>Creature</maintype>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Starvation WAS</name>
+      <set>WAS</set>
+      <prop>
+        <colors></colors>
+        <type>Token Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures your opponents control have base power and toughness 1/1.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Cinnabar WAS</name>
+      <set>WAS</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>1R, {T}, Sacrifice Cinnabar: You may play the exiled card until end of turn.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Armand WAS</name>
+      <set>WAS</set>
+      <prop>
+        <colors>WB</colors>
+        <type>Legendary Token Creature - Angel Bird Human </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, lifelink</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Labor WAS</name>
+      <set>WAS</set>
+      <prop>
+        <colors></colors>
+        <type>Token Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Nonland permanents your opponents control lose all abilities and are 0/1 Citizen creatures.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Value WAS</name>
+      <set>WAS</set>
+      <prop>
+        <colors></colors>
+        <type>Token Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a player casts a spell, exile target permanent that player controls, then return it to the battlefield under your control.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>The City&apos;s Blessing WAS</name>
+      <set>WAS</set>
+      <prop>
+        <colors></colors>
+        <type>Reminder Card</type>
+        <maintype>Card</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Horror Drone Token WAS</name>
+      <set>WAS</set>
+      <prop>
+        <colors></colors>
+        <type>Token Enchantment Creature - Horror Drone </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Opus WAS</name>
+      <set>WAS</set>
+      <prop>
+        <colors></colors>
+        <type>Token Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your first main phase, cast a copy of the exiled card without paying its mana cost.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Rogue WAS</name>
+      <set>WAS</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature dies, you may play the exiled card until the end of your next turn.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Manuela, Twice-Great Emblem WAS</name>
+      <set>WAS</set>
+      <prop>
+        <colors></colors>
+        <type>Emblem</type>
+        <maintype>Emblem</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Untap all permanents you control during each untap step.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Alienation WAS</name>
+      <set>WAS</set>
+      <prop>
+        <colors></colors>
+        <type>Token Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Nonenchantment creatures can’t block enchantment creatures.</text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
