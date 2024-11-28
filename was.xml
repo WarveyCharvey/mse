@@ -4,7 +4,7 @@
     <set>
       <name>WAS</name>
       <longname>Work of the Argent Sun</longname>
-      <settype>Custom</settype>
+      <settype></settype>
     </set>
   </sets>
   <cards>
@@ -179,13 +179,14 @@ Target creature gets +3/+0 until end of turn. Put your choice of a first strike,
       <set rarity="uncommon">WAS</set>
       <prop>
         <colors>W</colors>
-        <manacost>2W</manacost>
-        <cmc>3</cmc>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+      <text>Flash
+Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
 When Totality of the Chapel enters, exile target nonland permanent an opponent controls until Totality of the Chapel leaves the battlefield.
 As long as you have the city’s blessing, creatures you control get +1/+1.</text>
     </card>
@@ -333,15 +334,15 @@ Enchanted creature loses all abilities and has base power and toughness 1/1.
       <set rarity="common">WAS</set>
       <prop>
         <colors>U</colors>
-        <manacost>3U</manacost>
-        <cmc>4</cmc>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
         <type>Creature - Human Rogue Wizard </type>
         <maintype>Creature</maintype>
-        <pt>3/2</pt>
+        <pt>1/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Menace
-When Used Esoterica Salesman enters, draw a card, then discard a card. If a nonland card was discarded this way, create a 1/1 black Warlock creature token and put a menace counter on it.</text>
+      <text>Flash
+When Used Esoterica Salesman enters, create a 1/1 black Warlock creature token, then put an argent counter on a permanent you control. (It gains “{T}: Add {C}.”)</text>
     </card>
     <card>
       <name>Student of Limn</name>
@@ -428,7 +429,7 @@ As long as you have the city’s blessing, Guide of the Lucid can attack as thou
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>1G/U: Search your library for a card named Synaesthiote and put it onto the battlefield. Activate only as a sorcery.
+      <text>1G/U: Search your library for a card named Synaesthiote and put it onto the battlefield, then shuffle. Activate only as a sorcery.
 {2}, Sacrifice Synaesthiote: Draw a card.</text>
     </card>
     <card>
@@ -535,19 +536,19 @@ Occlude — 1CBR, Discard a card. (You may play this face down as a Penumbra lan
 • Bring Ruin deals 3 damage to target creature.</text>
     </card>
     <card>
-      <name>Clastedox Adherents</name>
+      <name>Clastedox Intimidators</name>
       <set rarity="common">WAS</set>
       <prop>
         <colors>R</colors>
-        <manacost>3R</manacost>
-        <cmc>4</cmc>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
         <type>Creature - Human Cleric </type>
         <maintype>Creature</maintype>
-        <pt>4/3</pt>
+        <pt>5/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Trample
-At the beginning of your end step, if you have one or fewer cards in hand, put a +1/+1 counter on Clastedox Adherents.</text>
+      <text>At the beginning of your end step, if you have one or fewer cards in hand, put a +1/+1 counter on Clastedox Intimidators.
+1R, Discard Clastedox Intimidators: Clastedox Intimidators deals 2 damage to target creature.</text>
     </card>
     <card>
       <name>Morgana Fata</name>
@@ -1117,14 +1118,14 @@ Occlude 5CW (You may play this face down as a Penumbra land with “{T}: Add {C}
       <set rarity="uncommon">WAS</set>
       <prop>
         <colors>W</colors>
-        <manacost>1CW</manacost>
-        <cmc>3</cmc>
+        <manacost>3CW</manacost>
+        <cmc>5</cmc>
         <type>Instant</type>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Prevent all damage that would be dealt to you and permanents you control this turn.
-Creatures your opponents control lose all nonmana abilities until end of turn.</text>
+      <text>Permanents your opponents control lose all nonmana abilities until end of turn.
+Exile any number of attacking or blocking creatures with total mana value 5 or less.</text>
     </card>
     <card>
       <name>Refinery Herald</name>
@@ -1285,7 +1286,7 @@ Occlude 2C (You may play this face down as a Penumbra land with “{T}: Add {C}.
       </prop>
       <tablerow>3</tablerow>
       <text>Exile the top two cards of your library. You may play them until end of turn.
-Research — {R}, Discard a card. ({R}, Discard a card, Exile this card from your graveyard: After the next draw step, cast a copy of it without paying its mana cost.)</text>
+Research — {R}, Discard a card. ({R}, Discard a card, Exile this from your graveyard during an opponent’s end step: After the next draw step, cast a free copy of it.)</text>
     </card>
     <card>
       <name>Cardinal of Capital</name>
@@ -2176,19 +2177,18 @@ Occlude 10CB. This cost is reduced by {2} for each creature that died this turn.
 Research 1B (1B, Exile this card from your graveyard during an opponent’s end step: After the next draw step, cast a free copy of it.)</text>
     </card>
     <card>
-      <name>Unresolved Symbolism</name>
+      <name>Drive to Despair</name>
       <set rarity="uncommon">WAS</set>
       <prop>
         <colors>B</colors>
-        <manacost>2B</manacost>
-        <cmc>3</cmc>
-        <type>Enchantment</type>
-        <maintype>Enchantment</maintype>
+        <manacost>XB</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
       </prop>
-      <tablerow>1</tablerow>
+      <tablerow>3</tablerow>
       <text>Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
-When Unresolved Symbolism enters or is sacrificed, up to one target creature gets -4/-4 until end of turn.
-2CB, Sacrifice Unresolved Symbolism: You draw two cards and you gain 2 life. Activate only as a sorcery and if you have the city’s blessing.</text>
+Destroy target creature or enchantment if it has mana value X or if you have the city’s blessing.</text>
     </card>
     <card>
       <name>Dangerous Thought</name>
@@ -2294,7 +2294,7 @@ Double strike, reach
 Vitriol of the Masses can’t attack unless you have the city’s blessing.</text>
     </card>
     <card>
-      <name>Clastedox Executioners</name>
+      <name>Clastedox Militia</name>
       <set rarity="uncommon">WAS</set>
       <prop>
         <colors>R</colors>
@@ -2305,9 +2305,9 @@ Vitriol of the Masses can’t attack unless you have the city’s blessing.</tex
         <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Clastedox Executioners dies, it deals 2 damage to target creature an opponent controls.
-Occlude 4CRR (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.)
-When Clastedox Executioners is turned face up, create three tokens that are copies of it.</text>
+      <text>{2}, Remove a counter from Clastedox Militia: Create a tapped 1/1 black Warlock creature token. Put a counter of that kind on it.
+Occlude 3CRR (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.)
+When Clastedox Militia is turned face up, put five +1/+1 counters on it.</text>
     </card>
     <card>
       <name>Gestating Anomaly</name>
@@ -2688,15 +2688,15 @@ Research 3GU (3GU, Exile this card from your graveyard during an opponent’s en
       <set rarity="uncommon">WAS</set>
       <prop>
         <colors>R</colors>
-        <manacost>1CR</manacost>
-        <cmc>3</cmc>
+        <manacost>2CR</manacost>
+        <cmc>4</cmc>
         <type>Instant</type>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose up to two —
-• Target creature gets +2/-2 until end of turn.
-• Target creature gets -2/+2 until end of turn.
+• Target creature gets +3/-3 until end of turn.
+• Target creature gets -3/+3 until end of turn.
 • Thaumatic Discordance deals 2 damage to each creature.</text>
     </card>
     <card>
@@ -2771,7 +2771,7 @@ At the beginning of your end step, if you haven’t cast a spell from your hand 
         <cmc>7</cmc>
         <type>Creature - Shapeshifter  </type>
         <maintype>Creature</maintype>
-        <pt>7/7</pt>
+        <pt>8/8</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>When Alley Anaithnid enters, choose one.
@@ -3045,20 +3045,18 @@ Occlude 5CB (You may play this face down as a Penumbra land with “{T}: Add {C}
 Occlude 3CCW (You may play this face down as a Penumbra land with “{T}: Add {C}.” Turn it face up any time for its occlude cost.) </text>
     </card>
     <card>
-      <name>Desert of the Real</name>
+      <name>The End of History</name>
       <set rarity="rare">WAS</set>
       <prop>
         <colors>W</colors>
-        <manacost>3WW</manacost>
-        <cmc>5</cmc>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
       </prop>
-      <tablerow>3</tablerow>
-      <text>Destroy all creatures, then choose one, where X is the amount of {C} spent to cast this spell.
-• Put X +1/+1 counters on target permanent.
-• Return target enchantment card with mana value X or less from your graveyard to the battlefield.
-• You gain twice X life.</text>
+      <tablerow>1</tablerow>
+      <text>When The End of History enters, if it was cast, destroy all creatures.
+1C: Exile target card from a graveyard. If you do, create a tapped 2/2 colorless Drone Citizen enchantment creature token with vigilance.</text>
     </card>
     <card>
       <name>Hostile Representation</name>
@@ -4388,7 +4386,7 @@ Flying</text>
       <token>1</token>
     </card>
     <card>
-      <name>Rogue WAS</name>
+      <name>Rogue Token WAS</name>
       <set>WAS</set>
       <prop>
         <colors>B</colors>
