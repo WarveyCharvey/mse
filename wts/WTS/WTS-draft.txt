@@ -1,0 +1,3190 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Throw Through",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/146_Throw Through.png"
+			}
+		},
+		{
+			"name": "Backstreets Brutalizer",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Ogre Mercenary ",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/116_Backstreets Brutalizer.png"
+			}
+		},
+		{
+			"name": "Ear to the Streets",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/47_Ear to the Streets.png"
+			}
+		},
+		{
+			"name": "Schmooze",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/104_Schmooze.png"
+			}
+		},
+		{
+			"name": "Gensus Laboratory District",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/273_Gensus Laboratory District.png"
+			}
+		},
+		{
+			"name": "Leaping Ambusher",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Aetherborn Rogue ",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/67_Leaping Ambusher.png"
+			}
+		},
+		{
+			"name": "Tyfloport Captain",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Merchant  ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/38_Tyfloport Captain.png"
+			}
+		},
+		{
+			"name": "Slice",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/144_Slice.png"
+			}
+		},
+		{
+			"name": "Altimuth Archives",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/258_Altimuth Archives.png"
+			}
+		},
+		{
+			"name": "Ermetico Protofission Bomb",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/127_Ermetico Protofission Bomb.png"
+			}
+		},
+		{
+			"name": "Ductwork Deathmacht",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Zombie Mercenary ",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/239_Ductwork Deathmacht.png"
+			}
+		},
+		{
+			"name": "Dependable Deathmacht",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Zombie Mercenary ",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/236_Dependable Deathmacht.png"
+			}
+		},
+		{
+			"name": "Twinpistol Terror",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Mercenary ",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/147_Twinpistol Terror.png"
+			}
+		},
+		{
+			"name": "Navigate",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/174_Navigate.png"
+			}
+		},
+		{
+			"name": "Prehistoric Pocket Knife",
+			"rarity": "uncommon",
+			"mana_cost": "{1{W}/B}",
+			"type": "Artifact",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/222_Prehistoric Pocket Knife.png"
+			}
+		},
+		{
+			"name": "Stare Down",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/107_Stare Down.png"
+			}
+		},
+		{
+			"name": "Burner Phone",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/232_Burner Phone.png"
+			}
+		},
+		{
+			"name": "Twilight Street Fare",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Food ",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/255_Twilight Street Fare.png"
+			}
+		},
+		{
+			"name": "Ironskull Opportunist",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Kor Mercenary ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/29_Ironskull Opportunist.png"
+			}
+		},
+		{
+			"name": "Backstreets Hot Pot",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Food ",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/78_Backstreets Hot Pot.png"
+			}
+		},
+		{
+			"name": "Environmental Engineer",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Citizen Scientist ",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/161_Environmental Engineer.png"
+			}
+		},
+		{
+			"name": "Hidden-Brick Style Mentor",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Kor Monk ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/26_Hidden-Brick Style Mentor.png"
+			}
+		},
+		{
+			"name": "Ace Operator",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/39_Ace Operator.png"
+			}
+		},
+		{
+			"name": "Call In Contractors",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/120_Call In Contractors.png"
+			}
+		},
+		{
+			"name": "Dispositron",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Food Drone ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/15_Dispositron.png"
+			}
+		},
+		{
+			"name": "Buy More Guns",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/158_Buy More Guns.png"
+			}
+		},
+		{
+			"name": "Bellatrine Initiate",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Warlock ",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/80_Bellatrine Initiate.png"
+			}
+		},
+		{
+			"name": "Heaped Harvest",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact — Food ",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/164_Heaped Harvest.png"
+			}
+		},
+		{
+			"name": "Scrap Pit Sledgehammer",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/252_Scrap Pit Sledgehammer.png"
+			}
+		},
+		{
+			"name": "Thriving Scrapper",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Citizen ",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/184_Thriving Scrapper.png"
+			}
+		},
+		{
+			"name": "Tyflonaut Mattermaster",
+			"rarity": "uncommon",
+			"mana_cost": "{U/R}{W}",
+			"type": "Artifact Creature — Kor Scientist ",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/224_Tyflonaut Mattermaster.png"
+			}
+		},
+		{
+			"name": "Wiry Wiretap",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Drone Mercenary ",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/75_Wiry Wiretap.png"
+			}
+		},
+		{
+			"name": "Makeshift Repairs",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/31_Makeshift Repairs.png"
+			}
+		},
+		{
+			"name": "Cybernetic Installation",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/87_Cybernetic Installation.png"
+			}
+		},
+		{
+			"name": "Demagoguery",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/122_Demagoguery.png"
+			}
+		},
+		{
+			"name": "Disruptor Deathmacht",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Zombie Mercenary ",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/238_Disruptor Deathmacht.png"
+			}
+		},
+		{
+			"name": "Deafening Deathmacht",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Zombie Mercenary ",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/234_Deafening Deathmacht.png"
+			}
+		},
+		{
+			"name": "Iceware Specialist",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Human Assassin ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/61_Iceware Specialist.png"
+			}
+		},
+		{
+			"name": "Preemptive Strike",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/70_Preemptive Strike.png"
+			}
+		},
+		{
+			"name": "Organ Entrepreneurs",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Mutant Rogue ",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/98_Organ Entrepreneurs.png"
+			}
+		},
+		{
+			"name": "Coordination Processor",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Drone Advisor ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/12_Coordination Processor.png"
+			}
+		},
+		{
+			"name": "Blast Door",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/7_Blast Door.png"
+			}
+		},
+		{
+			"name": "Cling to Survival",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/84_Cling to Survival.png"
+			}
+		},
+		{
+			"name": "Work Nights",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/112_Work Nights.png"
+			}
+		},
+		{
+			"name": "Gensus Anaesthetic Rounds",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/54_Gensus Anaesthetic Rounds.png"
+			}
+		},
+		{
+			"name": "Soleil Queen, the Superstar",
+			"rarity": "uncommon",
+			"mana_cost": "{R/W}{R/W}",
+			"type": "Legendary Creature — Wolf Performer ",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/223_Soleil Queen, the Superstar.png"
+			}
+		},
+		{
+			"name": "Lunging Lych",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Wolf Gymbro ",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/169_Lunging Lych.png"
+			}
+		},
+		{
+			"name": "Self-Perfectionist",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact Creature — Human Mercenary ",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/143_Self-Perfectionist.png"
+			}
+		},
+		{
+			"name": "Indiscriminate Fire",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Instant",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/133_Indiscriminate Fire.png"
+			}
+		},
+		{
+			"name": "Emptying Vessel",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Aetherborn  ",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/240_Emptying Vessel.png"
+			}
+		},
+		{
+			"name": "Twelvepoint Servitor",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact Creature — Drone Employee ",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/185_Twelvepoint Servitor.png"
+			}
+		},
+		{
+			"name": "Hacker's Headset",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Artifact",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/57_Hacker's Headset.png"
+			}
+		},
+		{
+			"name": "Aero-Merai Cratermaker",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/76_Aero-Merai Cratermaker.png"
+			}
+		},
+		{
+			"name": "Return to Service",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/103_Return to Service.png"
+			}
+		},
+		{
+			"name": "Prosthetic Eye",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/247_Prosthetic Eye.png"
+			}
+		},
+		{
+			"name": "Prosthetic Heart",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/249_Prosthetic Heart.png"
+			}
+		},
+		{
+			"name": "Ride-or-Die",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Kobold Mercenary ",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/141_Ride-or-Die.png"
+			}
+		},
+		{
+			"name": "Concuss",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/85_Concuss.png"
+			}
+		},
+		{
+			"name": "Prosthetic Arm",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/246_Prosthetic Arm.png"
+			}
+		},
+		{
+			"name": "Prosthetic Spine",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/250_Prosthetic Spine.png"
+			}
+		},
+		{
+			"name": "Prosthetic Face",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/248_Prosthetic Face.png"
+			}
+		},
+		{
+			"name": "Automation Engineering",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/43_Automation Engineering.png"
+			}
+		},
+		{
+			"name": "Hack the Mainframe",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/56_Hack the Mainframe.png"
+			}
+		},
+		{
+			"name": "Convince to Surrender",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/11_Convince to Surrender.png"
+			}
+		},
+		{
+			"name": "Electrical Plant",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/261_Electrical Plant.png"
+			}
+		},
+		{
+			"name": "Mealtime Ambush",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/170_Mealtime Ambush.png"
+			}
+		},
+		{
+			"name": "Argonet Pinpoint Vaporizer",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/4_Argonet Pinpoint Vaporizer.png"
+			}
+		},
+		{
+			"name": "Autodirigible",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Balloon Drone ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/5_Autodirigible.png"
+			}
+		},
+		{
+			"name": "Demand Answers",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/123_Demand Answers.png"
+			}
+		},
+		{
+			"name": "Lensqi Mk. II Covert Sniper",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/94_Lensqi Mk. II Covert Sniper.png"
+			}
+		},
+		{
+			"name": "Gensus Turretoma",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Human Germ Soldier ",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/129_Gensus Turretoma.png"
+			}
+		},
+		{
+			"name": "Arlington Knifefight",
+			"rarity": "uncommon",
+			"mana_cost": "{1{R}/G}{R/G}",
+			"type": "Legendary Creature — Wolf Mercenary ",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/209_Arlington Knifefight.png"
+			}
+		},
+		{
+			"name": "The Bellatrine Bomb",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/230_The Bellatrine Bomb.png"
+			}
+		},
+		{
+			"name": "Covert Recorder",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Drone Rogue ",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/46_Covert Recorder.png"
+			}
+		},
+		{
+			"name": "Bellabellum",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Legendary Enchantment Creature — God ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/79_Bellabellum.png"
+			}
+		},
+		{
+			"name": "Lensqi Cleanup Team",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G/U}{B}",
+			"type": "Artifact Creature — Soldier ",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/218_Lensqi Cleanup Team.png"
+			}
+		},
+		{
+			"name": "Hidden-Brick Champion",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Ogre Monk ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/25_Hidden-Brick Champion.png"
+			}
+		},
+		{
+			"name": "Subway Station",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/278_Subway Station.png"
+			}
+		},
+		{
+			"name": "Corporate Security Chief",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Elf Soldier ",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/160_Corporate Security Chief.png"
+			}
+		},
+		{
+			"name": "Maintenance Technician",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Citizen Rigger ",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/68_Maintenance Technician.png"
+			}
+		},
+		{
+			"name": "Information Monitor",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Drone Soldier ",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/64_Information Monitor.png"
+			}
+		},
+		{
+			"name": "Infamous Freelancer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elf Mercenary ",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/134_Infamous Freelancer.png"
+			}
+		},
+		{
+			"name": "Perpetrate",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/100_Perpetrate.png"
+			}
+		},
+		{
+			"name": "Field Repairs",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/89_Field Repairs.png"
+			}
+		},
+		{
+			"name": "Overclocked Debtor",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature — Drone Human ",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/99_Overclocked Debtor.png"
+			}
+		},
+		{
+			"name": "Lensqi Repossession Team",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Human Soldier ",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/95_Lensqi Repossession Team.png"
+			}
+		},
+		{
+			"name": "Unburied Uraniac",
+			"rarity": "uncommon",
+			"mana_cost": "{G/W}{B}",
+			"type": "Artifact Creature — Mutant ",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/225_Unburied Uraniac.png"
+			}
+		},
+		{
+			"name": "Anaïs, Scrap Pit Heavy",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B/G}{B/G}",
+			"type": "Legendary Creature — Ogre Mercenary ",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/207_Anaïs, Scrap Pit Heavy.png"
+			}
+		},
+		{
+			"name": "Patient Headhunter",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact Creature — Elf Mercenary ",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/178_Patient Headhunter.png"
+			}
+		},
+		{
+			"name": "Multifunction Hand",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/172_Multifunction Hand.png"
+			}
+		},
+		{
+			"name": "Backup Battery",
+			"rarity": "uncommon",
+			"mana_cost": "{1{G}/U}",
+			"type": "Artifact",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/210_Backup Battery.png"
+			}
+		},
+		{
+			"name": "Spadefront Henchman",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Rebel ",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/181_Spadefront Henchman.png"
+			}
+		},
+		{
+			"name": "Burned-Out Visionary",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elf Rebel ",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/119_Burned-Out Visionary.png"
+			}
+		},
+		{
+			"name": "Industrial Sabotage",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/167_Industrial Sabotage.png"
+			}
+		},
+		{
+			"name": "Ideological Discourse",
+			"rarity": "uncommon",
+			"mana_cost": "{R/G}{U}",
+			"type": "Instant",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/217_Ideological Discourse.png"
+			}
+		},
+		{
+			"name": "Wire Worker",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Human Assembly-Worker ",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/257_Wire Worker.png"
+			}
+		},
+		{
+			"name": "Implantation Rig",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/62_Implantation Rig.png"
+			}
+		},
+		{
+			"name": "Anonymous Assailant",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Mercenary ",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/151_Anonymous Assailant.png"
+			}
+		},
+		{
+			"name": "Data Core Cracker",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Rogue Scientist ",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/121_Data Core Cracker.png"
+			}
+		},
+		{
+			"name": "Money Engineer",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Merchant Advisor ",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/136_Money Engineer.png"
+			}
+		},
+		{
+			"name": "Tactical Decision Matrix",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/145_Tactical Decision Matrix.png"
+			}
+		},
+		{
+			"name": "Fight Dirty",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/90_Fight Dirty.png"
+			}
+		},
+		{
+			"name": "Ironskull Executioner",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Aetherborn Assassin ",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/93_Ironskull Executioner.png"
+			}
+		},
+		{
+			"name": "Ironskull Tactician",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact Creature — Ogre Mercenary ",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/65_Ironskull Tactician.png"
+			}
+		},
+		{
+			"name": "Holographic Designer",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Employee ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/59_Holographic Designer.png"
+			}
+		},
+		{
+			"name": "Tyflonaut Wings",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/37_Tyflonaut Wings.png"
+			}
+		},
+		{
+			"name": "Energy Beam",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/20_Energy Beam.png"
+			}
+		},
+		{
+			"name": "Corporate Sponsorship",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/13_Corporate Sponsorship.png"
+			}
+		},
+		{
+			"name": "Delivery Driver",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Employee Pilot ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/14_Delivery Driver.png"
+			}
+		},
+		{
+			"name": "Smoking Gun",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/253_Smoking Gun.png"
+			}
+		},
+		{
+			"name": "Looming Lych",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Wolf Rogue ",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/96_Looming Lych.png"
+			}
+		},
+		{
+			"name": "Power Distributor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Human Rigger Merchant ",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/199_Power Distributor.png"
+			}
+		},
+		{
+			"name": "Flashbang Prism",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/52_Flashbang Prism.png"
+			}
+		},
+		{
+			"name": "Experimental Sparkdrain",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U/B}{U/B}",
+			"type": "Artifact",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/213_Experimental Sparkdrain.png"
+			}
+		},
+		{
+			"name": "Embrace the Unknown",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/126_Embrace the Unknown.png"
+			}
+		},
+		{
+			"name": "Empty Calories",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Artifact — Food ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/19_Empty Calories.png"
+			}
+		},
+		{
+			"name": "Sofia, the Last Electrotank",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Artifact Creature — Juggernaut ",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/204_Sofia, the Last Electrotank.png"
+			}
+		},
+		{
+			"name": "Interminable Instrument",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Artifact Creature — Elf Warlock Assassin ",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/195_Interminable Instrument.png"
+			}
+		},
+		{
+			"name": "Saturation Bombing",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/202_Saturation Bombing.png"
+			}
+		},
+		{
+			"name": "Claim New Turf",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Battle — Mission ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/1_Claim New Turf.png"
+			}
+		},
+		{
+			"name": "Climactic Firefight",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Battle — Mission ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/9_Climactic Firefight.png"
+			}
+		},
+		{
+			"name": "Trillion-Credit Bank Account",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/254_Trillion-Credit Bank Account.png"
+			}
+		},
+		{
+			"name": "Phish",
+			"rarity": "uncommon",
+			"mana_cost": "{1{U}/B}{R}",
+			"type": "Sorcery",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/220_Phish.png"
+			}
+		},
+		{
+			"name": "Morelyn, Social Engineer",
+			"rarity": "uncommon",
+			"mana_cost": "{1{U}/R}{U/R}",
+			"type": "Legendary Creature — Human Rogue ",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/219_Morelyn, Social Engineer.png"
+			}
+		},
+		{
+			"name": "Missile Massacre",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/171_Missile Massacre.png"
+			}
+		},
+		{
+			"name": "Window Wiper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Ogre Employee Rogue ",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/74_Window Wiper.png"
+			}
+		},
+		{
+			"name": "Artisanal Arms Dealer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Elf Merchant ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/42_Artisanal Arms Dealer.png"
+			}
+		},
+		{
+			"name": "Terrestrial Whiskey",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact — Food ",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/110_Terrestrial Whiskey.png"
+			}
+		},
+		{
+			"name": "Edge of the Sky",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/260_Edge of the Sky.png"
+			}
+		},
+		{
+			"name": "Eavesdrop",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/48_Eavesdrop.png"
+			}
+		},
+		{
+			"name": "Lensqi Pocket Disintegrator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/135_Lensqi Pocket Disintegrator.png"
+			}
+		},
+		{
+			"name": "Ultraheavy Factory Walker",
+			"rarity": "uncommon",
+			"mana_cost": "{10}",
+			"type": "Artifact Creature — Assembly-Worker ",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/256_Ultraheavy Factory Walker.png"
+			}
+		},
+		{
+			"name": "Luxury Fabricator",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Assembly-Worker ",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/243_Luxury Fabricator.png"
+			}
+		},
+		{
+			"name": "Fortified Apartment",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/272_Fortified Apartment.png"
+			}
+		},
+		{
+			"name": "Basement Apartment",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/269_Basement Apartment.png"
+			}
+		},
+		{
+			"name": "Raven, Untouchable Killer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Human Assassin  ",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/102_Raven, Untouchable Killer.png"
+			}
+		},
+		{
+			"name": "Overheat",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/138_Overheat.png"
+			}
+		},
+		{
+			"name": "An Interested Scientist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Planeswalker — Eteres ",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/168_An Interested Scientist.png"
+			}
+		},
+		{
+			"name": "Corporate Takeover",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Battle — Mission ",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/86_Corporate Takeover.png"
+			}
+		},
+		{
+			"name": "Firewall Weaver",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Employee Scientist ",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/162_Firewall Weaver.png"
+			}
+		},
+		{
+			"name": "Iceware Cryogenician",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W/B}{U}",
+			"type": "Artifact Creature — Aetherborn Assassin ",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/216_Iceware Cryogenician.png"
+			}
+		},
+		{
+			"name": "Delta-Wave Deathmacht",
+			"rarity": "uncommon",
+			"mana_cost": "{1{W}/U}{W/U}",
+			"type": "Artifact Creature — Zombie Mercenary ",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/212_Delta-Wave Deathmacht.png"
+			}
+		},
+		{
+			"name": "Exultation of Rushing Blood",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/88_Exultation of Rushing Blood.png"
+			}
+		},
+		{
+			"name": "Crowded Apartment",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/270_Crowded Apartment.png"
+			}
+		},
+		{
+			"name": "Customized Sidearm",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/233_Customized Sidearm.png"
+			}
+		},
+		{
+			"name": "Electric Knuckleduster",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/125_Electric Knuckleduster.png"
+			}
+		},
+		{
+			"name": "Argonet Detonator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/115_Argonet Detonator.png"
+			}
+		},
+		{
+			"name": "Argonet Scrambler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Drone Rogue  ",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/229_Argonet Scrambler.png"
+			}
+		},
+		{
+			"name": "Overthrow",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/177_Overthrow.png"
+			}
+		},
+		{
+			"name": "Reload",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/72_Reload.png"
+			}
+		},
+		{
+			"name": "Hypercomputer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/60_Hypercomputer.png"
+			}
+		},
+		{
+			"name": "Aero-Merai Artillery",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/114_Aero-Merai Artillery.png"
+			}
+		},
+		{
+			"name": "Adrenal Irregulator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/150_Adrenal Irregulator.png"
+			}
+		},
+		{
+			"name": "Hurried Hitman",
+			"rarity": "uncommon",
+			"mana_cost": "{1{B}/G}{R}",
+			"type": "Creature — Elf Assassin ",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/215_Hurried Hitman.png"
+			}
+		},
+		{
+			"name": "Good Night's Sleep",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/23_Good Night's Sleep.png"
+			}
+		},
+		{
+			"name": "Backstreets Chop-Shop",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/259_Backstreets Chop-Shop.png"
+			}
+		},
+		{
+			"name": "Grapple with the Future",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/55_Grapple with the Future.png"
+			}
+		},
+		{
+			"name": "Meet over Lunch",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/32_Meet over Lunch.png"
+			}
+		},
+		{
+			"name": "Heavy Kinetic Gunner",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Human Mercenary ",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/132_Heavy Kinetic Gunner.png"
+			}
+		},
+		{
+			"name": "Fayot, the Financier",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G/W}{G/W}",
+			"type": "Legendary Creature — Elf Merchant ",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/214_Fayot, the Financier.png"
+			}
+		},
+		{
+			"name": "Recurve Renegade",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Aetherborn Archer ",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/251_Recurve Renegade.png"
+			}
+		},
+		{
+			"name": "Aetherbirth",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{B}",
+			"type": "Sorcery",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/77_Aetherbirth.png"
+			}
+		},
+		{
+			"name": "Combat Streamer",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Human Performer ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/10_Combat Streamer.png"
+			}
+		},
+		{
+			"name": "Civic Architect",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Noble Scientist ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/45_Civic Architect.png"
+			}
+		},
+		{
+			"name": "Blackout Bandit",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Citizen Rogue ",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/156_Blackout Bandit.png"
+			}
+		},
+		{
+			"name": "Skyline Apartment",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/277_Skyline Apartment.png"
+			}
+		},
+		{
+			"name": "Penthouse Apartment",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/275_Penthouse Apartment.png"
+			}
+		},
+		{
+			"name": "Gas Leak",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/91_Gas Leak.png"
+			}
+		},
+		{
+			"name": "Gensus Somatoid",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Elf Germ Assassin ",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/128_Gensus Somatoid.png"
+			}
+		},
+		{
+			"name": "Aether Flare",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/3_Aether Flare.png"
+			}
+		},
+		{
+			"name": "Important Interview",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/27_Important Interview.png"
+			}
+		},
+		{
+			"name": "Power Siphoner",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Artifact",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/200_Power Siphoner.png"
+			}
+		},
+		{
+			"name": "Argonet Special Operative",
+			"rarity": "uncommon",
+			"mana_cost": "{W/U}{G}",
+			"type": "Artifact Creature — Elf Soldier ",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/208_Argonet Special Operative.png"
+			}
+		},
+		{
+			"name": "Shop for Supplies",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/203_Shop for Supplies.png"
+			}
+		},
+		{
+			"name": "Practical Holographer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Mercenary ",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/201_Practical Holographer.png"
+			}
+		},
+		{
+			"name": "Ascendant Packleader",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Wolf ",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/153_Ascendant Packleader.png"
+			}
+		},
+		{
+			"name": "Deconstructor Deathmacht",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Zombie Mercenary ",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/235_Deconstructor Deathmacht.png"
+			}
+		},
+		{
+			"name": "In Your Clutches",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}{U}",
+			"type": "Legendary Enchantment — Aura ",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/63_In Your Clutches.png"
+			}
+		},
+		{
+			"name": "Hydroponics Technician",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Employee ",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/166_Hydroponics Technician.png"
+			}
+		},
+		{
+			"name": "Poxwalkers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie ",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/101_Poxwalkers.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/4_Food.png"
+			}
+		},
+		{
+			"name": "War in the Streets",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B/R}{B/R}",
+			"type": "Sorcery",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/226_War in the Streets.png"
+			}
+		},
+		{
+			"name": "Elusive Cyberdracula",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Artifact Creature — Vampire ",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/192_Elusive Cyberdracula.png"
+			}
+		},
+		{
+			"name": "Big Data Trawler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Employee Scientist ",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/188_Big Data Trawler.png"
+			}
+		},
+		{
+			"name": "Vacuum-Sealed Reliquary",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Artifact",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/206_Vacuum-Sealed Reliquary.png"
+			}
+		},
+		{
+			"name": "Face in the Crowd",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Artifact Creature — Shapeshifter Citizen ",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/51_Face in the Crowd.png"
+			}
+		},
+		{
+			"name": "Rooftop Contact",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Rebel ",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/179_Rooftop Contact.png"
+			}
+		},
+		{
+			"name": "Restless Vandal",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rebel Artist ",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/140_Restless Vandal.png"
+			}
+		},
+		{
+			"name": "Unstoppable Force",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/149_Unstoppable Force.png"
+			}
+		},
+		{
+			"name": "Dynamic Tactics",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/124_Dynamic Tactics.png"
+			}
+		},
+		{
+			"name": "Dual-Wielding Duelist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Human Mercenary ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/16_Dual-Wielding Duelist.png"
+			}
+		},
+		{
+			"name": "Bar Brawl",
+			"rarity": "uncommon",
+			"mana_cost": "{B/R}{W}",
+			"type": "Sorcery",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/211_Bar Brawl.png"
+			}
+		},
+		{
+			"name": "Piston Fist Prizefighter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R/W}{G}",
+			"type": "Artifact Creature — Human Performer ",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/221_Piston Fist Prizefighter.png"
+			}
+		},
+		{
+			"name": "Adventurous Investor",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Human Noble Merchant ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/2_Adventurous Investor.png"
+			}
+		},
+		{
+			"name": "Aether's Edge Investigation",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Battle — Mission ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/40_Aether's Edge Investigation.png"
+			}
+		},
+		{
+			"name": "Unite the Revolutionaries",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Battle — Mission ",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/186_Unite the Revolutionaries.png"
+			}
+		},
+		{
+			"name": "Insured Investor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Elf Noble Merchant ",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/92_Insured Investor.png"
+			}
+		},
+		{
+			"name": "Scrap Pit Trawler's Stilts",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/180_Scrap Pit Trawler's Stilts.png"
+			}
+		},
+		{
+			"name": "Aero-Merai Pinnacle",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Human Dragon ",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/228_Aero-Merai Pinnacle.png"
+			}
+		},
+		{
+			"name": "Tyflonaut Daredevil",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elf Mercenary Pilot ",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/148_Tyflonaut Daredevil.png"
+			}
+		},
+		{
+			"name": "Baltrice, Between Jobs",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Planeswalker — Baltrice ",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/117_Baltrice, Between Jobs.png"
+			}
+		},
+		{
+			"name": "Skyline Sniper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Human Mercenary ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/35_Skyline Sniper.png"
+			}
+		},
+		{
+			"name": "Handheld Railcannon",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/24_Handheld Railcannon.png"
+			}
+		},
+		{
+			"name": "Electrosword",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Artifact",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/18_Electrosword.png"
+			}
+		},
+		{
+			"name": "Ermetico Facility Guard",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Ogre Soldier ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/50_Ermetico Facility Guard.png"
+			}
+		},
+		{
+			"name": "Blackout Mastermind",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elf Rogue Scientist ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/44_Blackout Mastermind.png"
+			}
+		},
+		{
+			"name": "Shoot",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/105_Shoot.png"
+			}
+		},
+		{
+			"name": "Skull Crush",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/106_Skull Crush.png"
+			}
+		},
+		{
+			"name": "Malware Mobilizer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Elf Scientist ",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/97_Malware Mobilizer.png"
+			}
+		},
+		{
+			"name": "Tactical Handler",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Mercenary Advisor ",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/109_Tactical Handler.png"
+			}
+		},
+		{
+			"name": "Backstreets Boss",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Mercenary ",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/155_Backstreets Boss.png"
+			}
+		},
+		{
+			"name": "Awles, Spadefront Protector",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Legendary Creature — Human Rebel ",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/154_Awles, Spadefront Protector.png"
+			}
+		},
+		{
+			"name": "The Biggest Gun You Can Carry",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact — Equipment ",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/231_The Biggest Gun You Can Carry.png"
+			}
+		},
+		{
+			"name": "Immovable Object",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/242_Immovable Object.png"
+			}
+		},
+		{
+			"name": "Aero-Merai Light Security",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Ogre Soldier ",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/227_Aero-Merai Light Security.png"
+			}
+		},
+		{
+			"name": "First Responder",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Ogre Citizen ",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/163_First Responder.png"
+			}
+		},
+		{
+			"name": "Glass Casket",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/22_Glass Casket.png"
+			}
+		},
+		{
+			"name": "Magnetics Magnate",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Kor Noble Merchant ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/30_Magnetics Magnate.png"
+			}
+		},
+		{
+			"name": "Moment of Weakness",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/69_Moment of Weakness.png"
+			}
+		},
+		{
+			"name": "Hidden-Brick Glassbreaker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Ogre Mercenary Monk ",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/58_Hidden-Brick Glassbreaker.png"
+			}
+		},
+		{
+			"name": "Whir of Invention",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U}{U}{U}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/73_Whir of Invention.png"
+			}
+		},
+		{
+			"name": "Subway Squatter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Citizen ",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/183_Subway Squatter.png"
+			}
+		},
+		{
+			"name": "Backstreets Gourmand",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Elf Citizen ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/6_Backstreets Gourmand.png"
+			}
+		},
+		{
+			"name": "Messy Accident",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/33_Messy Accident.png"
+			}
+		},
+		{
+			"name": "Napolese, Ol' Reliable",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Viashino Mercenary ",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/173_Napolese, Ol' Reliable.png"
+			}
+		},
+		{
+			"name": "Intricate Construction",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/28_Intricate Construction.png"
+			}
+		},
+		{
+			"name": "Gang Recruitment",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/21_Gang Recruitment.png"
+			}
+		},
+		{
+			"name": "Twelvepoint Luxury",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Kor Germ Employee ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/36_Twelvepoint Luxury.png"
+			}
+		},
+		{
+			"name": "Edgeside Repair Tech",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Rigger ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/17_Edgeside Repair Tech.png"
+			}
+		},
+		{
+			"name": "Robber Baron",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Rogue Noble  ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/34_Robber Baron.png"
+			}
+		},
+		{
+			"name": "Bulletproofing Peddler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Artifact Creature — Elf Merchant ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/8_Bulletproofing Peddler.png"
+			}
+		},
+		{
+			"name": "Reflection in the Aether",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/71_Reflection in the Aether.png"
+			}
+		},
+		{
+			"name": "Fundamental Analyst",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Artifact Creature — Merchant Advisor ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/53_Fundamental Analyst.png"
+			}
+		},
+		{
+			"name": "Electrokinetic Maneuver",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/49_Electrokinetic Maneuver.png"
+			}
+		},
+		{
+			"name": "Tyfloport Enforcer",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Assassin Pilot ",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/111_Tyfloport Enforcer.png"
+			}
+		},
+		{
+			"name": "Street Rat",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature — Elf Rogue ",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/108_Street Rat.png"
+			}
+		},
+		{
+			"name": "Blesser of Homes",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Ogre Warlock ",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/81_Blesser of Homes.png"
+			}
+		},
+		{
+			"name": "Bodiless Bodyguard",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Elf Mercenary ",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/82_Bodiless Bodyguard.png"
+			}
+		},
+		{
+			"name": "Chloryn, Criminal Empress",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Artifact Creature — Human Rogue ",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/83_Chloryn, Criminal Empress.png"
+			}
+		},
+		{
+			"name": "Aerial Arsonist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Elf Phoenix Rebel ",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/113_Aerial Arsonist.png"
+			}
+		},
+		{
+			"name": "Planebound Enthusiast",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Citizen Fan ",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/139_Planebound Enthusiast.png"
+			}
+		},
+		{
+			"name": "One on One",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Legendary Enchantment",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/137_One on One.png"
+			}
+		},
+		{
+			"name": "Ritual Pit Brawl",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Battle — Mission ",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/142_Ritual Pit Brawl.png"
+			}
+		},
+		{
+			"name": "Grease Gang",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Elf Rogue ",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/130_Grease Gang.png"
+			}
+		},
+		{
+			"name": "Hearse Company Patrol",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact Creature — Human Soldier ",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/165_Hearse Company Patrol.png"
+			}
+		},
+		{
+			"name": "Steelworker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Rigger ",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/182_Steelworker.png"
+			}
+		},
+		{
+			"name": "Collective Occupation",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Legendary Enchantment — Aura ",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/159_Collective Occupation.png"
+			}
+		},
+		{
+			"name": "Argonet Extraction Agent",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact Creature — Viashino Soldier ",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/152_Argonet Extraction Agent.png"
+			}
+		},
+		{
+			"name": "Half-Finished Walker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Drone  ",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/241_Half-Finished Walker.png"
+			}
+		},
+		{
+			"name": "Night on the Town",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{G}",
+			"type": "Sorcery",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/175_Night on the Town.png"
+			}
+		},
+		{
+			"name": "Devastator Deathmacht",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Zombie Mercenary ",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/237_Devastator Deathmacht.png"
+			}
+		},
+		{
+			"name": "Nutrient Solution Tank",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Artifact — Food ",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/176_Nutrient Solution Tank.png"
+			}
+		},
+		{
+			"name": "Rusting Monument",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/263_Rusting Monument.png"
+			}
+		},
+		{
+			"name": "Personal Computer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/245_Personal Computer.png"
+			}
+		},
+		{
+			"name": "Impenetrable Vault",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/262_Impenetrable Vault.png"
+			}
+		},
+		{
+			"name": "Mechanical Masks",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/244_Mechanical Masks.png"
+			}
+		},
+		{
+			"name": "Mission",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Battle — Mission ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/2_Mission.png"
+			}
+		},
+		{
+			"name": "Distraction",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Distraction ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/3_Distraction.png"
+			}
+		},
+		{
+			"name": "Mercenary Token",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Mercenary ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/5_Mercenary Token.png"
+			}
+		},
+		{
+			"name": "Mercenary Token",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Mercenary ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/6_Mercenary Token.png"
+			}
+		},
+		{
+			"name": "Orb Token",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Orb ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/7_Orb Token.png"
+			}
+		},
+		{
+			"name": "Bludgeon",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/157_Bludgeon.png"
+			}
+		},
+		{
+			"name": "Argonet Oracle Harness",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/41_Argonet Oracle Harness.png"
+			}
+		},
+		{
+			"name": "Jayden, Self-Made Man",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Legendary Creature — Human Mercenary ",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/66_Jayden, Self-Made Man.png"
+			}
+		},
+		{
+			"name": "Oris, Manumeya Strategist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Viashino Rebel  ",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/198_Oris, Manumeya Strategist.png"
+			}
+		},
+		{
+			"name": "Gensus Stimulant Booster",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Instant",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/193_Gensus Stimulant Booster.png"
+			}
+		},
+		{
+			"name": "Corporate Luncheon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Instant",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/191_Corporate Luncheon.png"
+			}
+		},
+		{
+			"name": "Cheri, Silicon Socialite",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Artifact Creature — Noble ",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/189_Cheri, Silicon Socialite.png"
+			}
+		},
+		{
+			"name": "Tyfloshuttle",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{W}{U}",
+			"type": "Artifact Creature — Drone ",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/205_Tyfloshuttle.png"
+			}
+		},
+		{
+			"name": "Neon Mirage",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/197_Neon Mirage.png"
+			}
+		},
+		{
+			"name": "Lensqi Operation Director",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Artifact Creature — Elf Soldier ",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/196_Lensqi Operation Director.png"
+			}
+		},
+		{
+			"name": "Indecisive Accessorizer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Artifact Creature — Kor Noble Citizen ",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/194_Indecisive Accessorizer.png"
+			}
+		},
+		{
+			"name": "Constant Sabotage",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Instant",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/190_Constant Sabotage.png"
+			}
+		},
+		{
+			"name": "Backstreet Locals",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Citizen ",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/187_Backstreet Locals.png"
+			}
+		},
+		{
+			"name": "Backstreets Marketplace",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/268_Backstreets Marketplace.png"
+			}
+		},
+		{
+			"name": "Backstreets Canal",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/266_Backstreets Canal.png"
+			}
+		},
+		{
+			"name": "Aero-Merai Factory",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/264_Aero-Merai Factory.png"
+			}
+		},
+		{
+			"name": "Backstreets Generator",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/267_Backstreets Generator.png"
+			}
+		},
+		{
+			"name": "Twelvepoint Residence Villa",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/279_Twelvepoint Residence Villa.png"
+			}
+		},
+		{
+			"name": "Lensqi Megastructure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/274_Lensqi Megastructure.png"
+			}
+		},
+		{
+			"name": "Scrap Pit Tenements",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/276_Scrap Pit Tenements.png"
+			}
+		},
+		{
+			"name": "Argonet Headquarters",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/265_Argonet Headquarters.png"
+			}
+		},
+		{
+			"name": "Edgeside Tyfloport",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/271_Edgeside Tyfloport.png"
+			}
+		},
+		{
+			"name": "Beloved of Bellabellum",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Elf Warlock ",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/118_Beloved of Bellabellum.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/283_Mountain.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/280_Plains.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/281_Island.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/284_Forest.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/282_Swamp.png"
+			}
+		},
+		{
+			"name": "Heat of Battle",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}",
+			"type": "Instant",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/131_Heat of Battle.png"
+			}
+		},
+		{
+			"name": "Player Power",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/1_Player Power.png"
+			}
+		},
+		{
+			"name": "Copy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/warveycharvey/main/wts//sets/WTS-files/img/1_Copy.png"
+			}
+		}
+	]
+[UncommonSlot(6)]
+9 Schmooze
+9 Twinpistol Terror
+9 Prehistoric Pocket Knife
+9 Stare Down
+9 Tyflonaut Mattermaster
+9 Wiry Wiretap
+9 Blast Door
+9 Cling to Survival
+9 Work Nights
+9 Soleil Queen, the Superstar
+9 Emptying Vessel
+9 Prosthetic Eye
+9 Prosthetic Heart
+9 Ride-or-Die
+9 Prosthetic Arm
+9 Prosthetic Spine
+9 Prosthetic Face
+9 Electrical Plant
+9 Arlington Knifefight
+9 The Bellatrine Bomb
+9 Bellabellum
+9 Lensqi Cleanup Team
+9 Hidden-Brick Champion
+9 Infamous Freelancer
+9 Unburied Uraniac
+9 Anaïs, Scrap Pit Heavy
+9 Backup Battery
+9 Ideological Discourse
+9 Implantation Rig
+9 Ironskull Executioner
+9 Power Distributor
+9 Flashbang Prism
+9 Experimental Sparkdrain
+9 Embrace the Unknown
+9 Empty Calories
+9 Sofia, the Last Electrotank
+9 Interminable Instrument
+9 Saturation Bombing
+9 Claim New Turf
+9 Climactic Firefight
+9 Trillion-Credit Bank Account
+9 Phish
+9 Morelyn, Social Engineer
+9 Missile Massacre
+9 Window Wiper
+9 Artisanal Arms Dealer
+9 Terrestrial Whiskey
+9 Edge of the Sky
+9 Eavesdrop
+9 Lensqi Pocket Disintegrator
+9 Ultraheavy Factory Walker
+9 Luxury Fabricator
+9 Raven, Untouchable Killer
+9 Overheat
+9 An Interested Scientist
+9 Corporate Takeover
+9 Firewall Weaver
+9 Iceware Cryogenician
+9 Delta-Wave Deathmacht
+9 Exultation of Rushing Blood
+9 Customized Sidearm
+9 Electric Knuckleduster
+9 Argonet Detonator
+9 Argonet Scrambler
+9 Overthrow
+9 Reload
+9 Hypercomputer
+9 Aero-Merai Artillery
+9 Adrenal Irregulator
+9 Hurried Hitman
+9 Good Night's Sleep
+9 Backstreets Chop-Shop
+9 Grapple with the Future
+9 Meet over Lunch
+9 Heavy Kinetic Gunner
+9 Fayot, the Financier
+9 Recurve Renegade
+9 Aetherbirth
+9 Combat Streamer
+9 Civic Architect
+9 Blackout Bandit
+9 Gas Leak
+9 Gensus Somatoid
+9 Aether Flare
+9 Important Interview
+9 Power Siphoner
+9 Argonet Special Operative
+9 Shop for Supplies
+9 Practical Holographer
+9 Ascendant Packleader
+9 Deconstructor Deathmacht
+9 In Your Clutches
+9 Hydroponics Technician
+9 Poxwalkers
+9 War in the Streets
+9 Elusive Cyberdracula
+9 Big Data Trawler
+9 Vacuum-Sealed Reliquary
+9 Face in the Crowd
+9 Rooftop Contact
+9 Restless Vandal
+9 Unstoppable Force
+9 Dynamic Tactics
+9 Dual-Wielding Duelist
+9 Bar Brawl
+9 Piston Fist Prizefighter
+9 Adventurous Investor
+9 Aether's Edge Investigation
+9 Unite the Revolutionaries
+9 Insured Investor
+9 Scrap Pit Trawler's Stilts
+9 Aero-Merai Pinnacle
+9 Tyflonaut Daredevil
+9 Baltrice, Between Jobs
+9 Skyline Sniper
+9 Handheld Railcannon
+9 Electrosword
+9 Ermetico Facility Guard
+9 Blackout Mastermind
+9 Shoot
+9 Skull Crush
+9 Malware Mobilizer
+9 Tactical Handler
+9 Backstreets Boss
+9 Awles, Spadefront Protector
+9 The Biggest Gun You Can Carry
+9 Immovable Object
+9 Aero-Merai Light Security
+9 First Responder
+9 Magnetics Magnate
+9 Moment of Weakness
+9 Hidden-Brick Glassbreaker
+9 Whir of Invention
+9 Subway Squatter
+9 Backstreets Gourmand
+9 Messy Accident
+9 Napolese, Ol' Reliable
+9 Intricate Construction
+9 Gang Recruitment
+9 Twelvepoint Luxury
+9 Edgeside Repair Tech
+9 Robber Baron
+9 Bulletproofing Peddler
+9 Reflection in the Aether
+9 Fundamental Analyst
+9 Electrokinetic Maneuver
+9 Tyfloport Enforcer
+9 Street Rat
+9 Blesser of Homes
+9 Bodiless Bodyguard
+9 Chloryn, Criminal Empress
+9 Aerial Arsonist
+9 Planebound Enthusiast
+9 One on One
+9 Ritual Pit Brawl
+9 Grease Gang
+9 Hearse Company Patrol
+9 Steelworker
+9 Collective Occupation
+9 Argonet Extraction Agent
+9 Half-Finished Walker
+9 Night on the Town
+9 Devastator Deathmacht
+9 Nutrient Solution Tank
+9 Rusting Monument
+9 Personal Computer
+9 Impenetrable Vault
+9 Mechanical Masks
+9 Bludgeon
+9 Argonet Oracle Harness
+9 Jayden, Self-Made Man
+9 Oris, Manumeya Strategist
+9 Gensus Stimulant Booster
+9 Corporate Luncheon
+9 Cheri, Silicon Socialite
+9 Tyfloshuttle
+9 Neon Mirage
+9 Lensqi Operation Director
+9 Indecisive Accessorizer
+9 Constant Sabotage
+9 Backstreet Locals
+9 Beloved of Bellabellum
+9 Heat of Battle
+[CommonSlot(7)]
+30 Throw Through
+30 Backstreets Brutalizer
+30 Ear to the Streets
+30 Leaping Ambusher
+30 Tyfloport Captain
+30 Slice
+30 Altimuth Archives
+30 Ermetico Protofission Bomb
+30 Ductwork Deathmacht
+30 Dependable Deathmacht
+30 Navigate
+30 Burner Phone
+30 Twilight Street Fare
+30 Ironskull Opportunist
+30 Backstreets Hot Pot
+30 Environmental Engineer
+30 Hidden-Brick Style Mentor
+30 Ace Operator
+30 Call In Contractors
+30 Dispositron
+30 Buy More Guns
+30 Bellatrine Initiate
+30 Heaped Harvest
+30 Scrap Pit Sledgehammer
+30 Thriving Scrapper
+30 Makeshift Repairs
+30 Cybernetic Installation
+30 Demagoguery
+30 Disruptor Deathmacht
+30 Deafening Deathmacht
+30 Iceware Specialist
+30 Preemptive Strike
+30 Organ Entrepreneurs
+30 Coordination Processor
+30 Gensus Anaesthetic Rounds
+30 Lunging Lych
+30 Self-Perfectionist
+30 Indiscriminate Fire
+30 Twelvepoint Servitor
+30 Hacker's Headset
+30 Aero-Merai Cratermaker
+30 Return to Service
+30 Concuss
+30 Automation Engineering
+30 Hack the Mainframe
+30 Convince to Surrender
+30 Mealtime Ambush
+30 Argonet Pinpoint Vaporizer
+30 Autodirigible
+30 Demand Answers
+30 Lensqi Mk. II Covert Sniper
+30 Gensus Turretoma
+30 Covert Recorder
+30 Corporate Security Chief
+30 Maintenance Technician
+30 Information Monitor
+30 Perpetrate
+30 Field Repairs
+30 Overclocked Debtor
+30 Lensqi Repossession Team
+30 Patient Headhunter
+30 Multifunction Hand
+30 Spadefront Henchman
+30 Burned-Out Visionary
+30 Industrial Sabotage
+30 Wire Worker
+30 Anonymous Assailant
+30 Data Core Cracker
+30 Money Engineer
+30 Tactical Decision Matrix
+30 Fight Dirty
+30 Ironskull Tactician
+30 Holographic Designer
+30 Tyflonaut Wings
+30 Energy Beam
+30 Corporate Sponsorship
+30 Delivery Driver
+30 Smoking Gun
+30 Looming Lych
+30 Glass Casket
+[LandSlot(1)]
+10 Subway Station
